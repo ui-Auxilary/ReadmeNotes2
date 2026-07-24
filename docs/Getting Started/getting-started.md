@@ -1,48 +1,34 @@
 ---
-title: Welcome to TeaCapital
+title: Welcome to teaCapital
+excerpt: >-
+  Explore fictional sample documentation for teaCapital, a brand that sources
+  tea from Japan.
 hidden: false
 ---
+Use these fictional sample pages to explore teaCapital’s approach to sourcing, selecting, and preparing Japanese tea.
+
 <Callout icon="📘" theme="info">
-  **Template:**  Delete this callout and edit this page with your content and links.
+  **Fictional brand:** teaCapital and the information in these pages are sample documentation created for demonstration purposes.
 </Callout>
 
 <Cards>
-  {/* Edit the props below to customize these components */}
-  <Card title="Quick Start" href="#" icon="fa-duotone fa-rocket-launch">Learn how to get started with our product</Card>
+  <Card title="About teaCapital" href="/docs/about-teacapital" icon="fa-duotone fa-leaf">Meet the fictional team and learn what guides its tea program.</Card>
 
-  <Card title="API Reference" href="#" icon="fa-duotone fa-code-simple">Explore endpoints and build your integration</Card>
+  <Card title="Japanese sourcing" href="/docs/japanese-tea-sourcing" icon="fa-duotone fa-map-location-dot">Follow a sample path from producer selection through arrival.</Card>
 
-  <Card title="Build with AI" href="#" icon="fa-duotone fa-sparkles">Use LLM features to automate your workflow</Card>
+  <Card title="Tea collection" href="/docs/tea-collection" icon="fa-duotone fa-mug-hot">Choose a tea style for the flavor and occasion you have in mind.</Card>
+
+  <Card title="Brewing guide" href="/docs/brewing-guide" icon="fa-duotone fa-kettle">Prepare Japanese tea with practical starting ratios, temperatures, and times.</Card>
 </Cards>
 
 <br />
 
-## Recent Releases
+## Start here
 
 <Cards>
-  <Card isNew kind="tile" title="v2.0 Migration" href="#" icon="fa-duotone fa-magnifying-glass">Everything you need to upgrade</Card>
+  <Card kind="tile" title="Understand the brand" href="/docs/about-teacapital" icon="fa-duotone fa-building">Read the fictional teaCapital story and sourcing principles.</Card>
 
-  <Card kind="tile" title="Webhooks" href="#" icon="fa-duotone fa-bullhorn">Real-time events are now available</Card>
+  <Card kind="tile" title="Select a tea" href="/docs/tea-collection" icon="fa-duotone fa-leaf-maple">Compare steamed green tea, roasted tea, and powdered tea styles.</Card>
 
-  <Card kind="tile" title="Android SDK" href="#" icon="fa-duotone fa-robot">Our native Android library is out of beta</Card>
+  <Card kind="tile" title="Make your first cup" href="/docs/brewing-guide" icon="fa-duotone fa-timer">Use a repeatable brewing method, then adjust it to taste.</Card>
 </Cards>
-
-<br />
-
-## The Basics
-
-<Cards>
-  <Card kind="tile" title="Customize" href="#" icon="fa-duotone fa-brush">Style the widget to match your brand</Card>
-
-  <Card kind="tile" title="Integrations" href="#" icon="fa-duotone fa-arrow-down-left-and-arrow-up-right-to-center">Connect with third-party services</Card>
-
-  <Card kind="tile" title="CLI" href="#" icon="fa-duotone fa-terminal">Manage resources from your terminal</Card>
-
-  <Card kind="tile" title="Security" href="" icon="fa-duotone fa-shield-dog">Learn how we secure your data</Card>
-
-  <Card kind="tile" title="Common Issues" href="" icon="fa-duotone fa-file-circle-info">Troubleshoot common issues</Card>
-
-  <Card kind="tile" title="Sync" href="#" icon="fa-duotone fa-code-compare">Connect to a storage provider</Card>
-</Cards>
-
-<br />
