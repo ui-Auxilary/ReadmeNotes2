@@ -33,6 +33,10 @@ The fictional product descriptions use three kinds of information:
 - **Flavor notes** describe aromas and tastes you may notice; they are not added ingredients.
 - **Brewing baseline** gives a repeatable first recipe that you can tailor to your taste.
 
+## Freshness and quality
+
+Quality is at its best when the tea is fresh and retains its vivid green color. A bright, saturated green signals that the leaves were processed quickly after harvest and stored properly — away from air, light, heat, and moisture. As tea ages or is exposed to these elements, the color fades, the aroma flattens, and the delicate vegetal and sweet notes give way to a duller, stale taste. When selecting a tea, look for a lively green hue as a quick visual indicator of freshness and overall quality.
+
 ## Optional: build a tasting flight
 
 Prepare two tea styles side by side using the same cup size. Taste the steamed green tea first, then the roasted tea, and finish with powdered tea if you include it. Rinse your cup with water between teas to keep the flavors distinct.
