@@ -33,4 +33,6 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
   <Card kind="tile" title="Make your first cup" href="/docs/brewing-guide" icon="fa-duotone fa-timer">Use a repeatable brewing method, then adjust it to taste.</Card>
 </Cards>
 
-Store matcha (powdered tea) in an airtight container in the refrigerator, away from light, to preserve its color, flavor, and freshness.
+## Matcha storage
+
+Store matcha (powdered tea) in an airtight container in the refrigerator, away from light, to preserve its color, flavor, and freshness. An airtight container is essential — exposure to air accelerates oxidation, which dulls the vibrant green color and flattens the flavor over time. Squeeze out excess air or use a container sized close to the remaining volume of powder.
