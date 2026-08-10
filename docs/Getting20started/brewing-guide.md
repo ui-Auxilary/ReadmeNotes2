@@ -28,6 +28,8 @@ Start with this baseline for the fictional steamed green and roasted tea styles.
 | Water temperature | 70°C / 158°F | 90°C / 194°F |
 | First steep | 60 seconds | 60 seconds |
 
+> **Brewing-temperature note:** Water temperature is the single biggest lever for controlling bitterness. Cooler water extracts fewer bitter compounds, producing a sweeter, more delicate cup. If you don't have a temperature-controlled kettle, let fully boiled water rest for a few minutes — roughly 2 minutes to reach 80°C and 4–5 minutes to reach 70°C.
+
 1. Measure the tea into your infuser or teapot.
 2. Measure and heat the water to the listed temperature.
 3. Pour the water over the leaves and start the timer.
