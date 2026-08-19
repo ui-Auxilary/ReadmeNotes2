@@ -32,3 +32,5 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
 
   <Card kind="tile" title="Make your first cup" href="/docs/brewing-guide" icon="fa-duotone fa-timer">Use a repeatable brewing method, then adjust it to taste.</Card>
 </Cards>
+
+yahoo
