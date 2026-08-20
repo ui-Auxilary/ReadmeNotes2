@@ -39,6 +39,10 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
   ### **Grind size matters:** Powdered tea (matcha) should be stone-ground to a fine, talc-like consistency. For leaf teas, keep leaves whole — grinding them increases bitterness and astringency.
 </Callout>
 
+<Callout icon="🏅" theme="default">
+  ### **Ceremonial grade tea:** Ceremonial grade matcha is made from the youngest, shade-grown leaves with stems and veins removed before stone-grinding. It has a vibrant green color, a smooth umami-rich flavor, and is intended to be whisked with water alone — no milk or sweetener needed.
+</Callout>
+
 ## Start here
 
 <Cards>
