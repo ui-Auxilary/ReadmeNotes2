@@ -33,6 +33,20 @@ If you are not completely satisfied with your tea order, teaCapital offers a str
   **Fictional policy:** This refund information is part of the teaCapital sample documentation and does not represent a real refund policy.
 </Callout>
 
+## Troubleshooting
+
+Having trouble with your tea order or brewing results? Below are a few common issues and how to resolve them.
+
+| Issue | Solution |
+| --- | --- |
+| Tea tastes bitter | Lower the water temperature or shorten the steep time. |
+| Order hasn't arrived | Check your tracking link; if delivery is overdue by 5+ days, contact support. |
+| Wrong item received | Email support with your order number and a photo of the item received. |
+
+<Callout icon="📘" theme="info">
+  **Fictional support:** This troubleshooting information is part of the teaCapital sample documentation and does not represent real support guidance.
+</Callout>
+
 ## Start here
 
 <Cards>
