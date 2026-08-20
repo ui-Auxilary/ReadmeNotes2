@@ -35,6 +35,10 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
   ### **Kettle temperature:** For most Japanese green teas, heat your kettle to 80°C (176°F) before brewing.
 </Callout>
 
+<Callout icon="🌡️" theme="warning">
+  **Water temperature matters:** Cooler water (around 70°C / 158°F) brings out sweetness in steamed green teas, while hotter water (around 90°C / 194°F) suits roasted teas. If your tea tastes bitter, try lowering the temperature by 5–10°C. See the [Brewing guide](/docs/brewing-guide) for detailed temperature recommendations by tea style.
+</Callout>
+
 ## Start here
 
 <Cards>
