@@ -41,6 +41,24 @@ Start with this baseline for the fictional steamed green and roasted tea styles.
 3. Whisk briskly in a zigzag motion for about 20 seconds, until the surface looks evenly mixed and lightly foamy.
 4. Drink promptly, then swirl the bowl between sips if powder begins to settle.
 
+## Brew cold tea
+
+Cold brewing extracts flavor slowly with room-temperature or chilled water, producing a smoother, naturally sweeter cup with less bitterness.
+
+| Parameter | Cold-brew leaf tea |
+| --- | --- |
+| Tea | 10 g |
+| Water | 500 ml (room temperature or cold) |
+| Steep time | 6–8 hours in the refrigerator |
+
+1. Place the tea leaves in a pitcher or bottle with a built-in strainer.
+2. Pour room-temperature or cold water over the leaves.
+3. Seal the container and refrigerate for 6–8 hours, or overnight.
+4. Strain the leaves and serve over ice if desired.
+5. Drink within 24 hours for the best flavor.
+
+Steamed green tea works especially well cold-brewed; roasted tea produces a lighter, toasty iced drink.
+
 ## Troubleshoot the cup
 
 | If your tea tastes… | Try this next time |
