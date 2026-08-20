@@ -25,6 +25,14 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
 
 > 🫖 **Kettle temperature:** For most Japanese green teas, heat your kettle to 80°C (176°F) before brewing.
 
+## Refunds
+
+If you are not completely satisfied with your tea order, teaCapital offers a straightforward refund process. Refund requests must be submitted within 30 days of delivery. Once approved, refunds are processed to the original payment method within 5–7 business days.
+
+<Callout icon="📘" theme="info">
+  **Fictional policy:** This refund information is part of the teaCapital sample documentation and does not represent a real refund policy.
+</Callout>
+
 ## Start here
 
 <Cards>
