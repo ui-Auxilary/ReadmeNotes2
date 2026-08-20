@@ -23,6 +23,8 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
 
 <br />
 
+> 🫖 **Kettle temperature:** For most Japanese green teas, heat your kettle to 80°C (176°F) before brewing.
+
 ## Start here
 
 <Cards>
