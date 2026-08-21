@@ -47,6 +47,8 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
   ### **Serving temperature:** Let brewed tea cool slightly before serving — most Japanese green teas are best enjoyed at 60–70°C (140–158°F). Serving too hot masks the tea's sweetness and umami, while serving too cool can dull its aroma.
 </Callout>
 
+> 📝 **Note:** To keep your tea in the ideal serving range longer, pre-warm your cups by rinsing them with hot water before pouring. This prevents the cup from absorbing heat and dropping the tea's temperature too quickly.
+
 ## Troubleshooting
 
 | Problem                             | Likely cause                         | Fix                                                                             |
