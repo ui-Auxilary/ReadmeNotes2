@@ -34,6 +34,18 @@ The fictional teaCapital sourcing program uses three principles:
 2. **Keep lots distinct.** Treat each arrival as a separate lot (a defined batch of tea handled together) to make tasting and inventory review easier.
 3. **Share useful preparation details.** Give drinkers a water-to-tea ratio, water temperature, and steeping time as a dependable starting point.
 
+## Our connection with Japanese tea
+
+teaCapital's fictional roots are in a direct relationship with Japanese tea culture. Rather than sourcing through intermediaries, the brand works closely with regional producers across Japan—from the shaded fields of Uji to the volcanic soils of Kagoshima—to understand how each growing environment shapes a tea's character.
+
+This connection influences every part of the program:
+
+- **Seasonal visits.** The fictional team travels during spring and autumn harvests to taste new lots at the source and learn how each producer's techniques evolve.
+- **Shared knowledge.** Producers share cultivation and processing details—such as shading duration, steaming intensity, and firing method—so teaCapital can pass that context on to drinkers.
+- **Long-term partnerships.** By returning to the same farms and cooperatives each year, teaCapital builds consistency in its collection while giving producers a reliable channel for their craft.
+
+These relationships are what allow teaCapital to pair every tea in the [collection](/docs/tea-collection) with the origin and preparation context that makes brewing more rewarding.
+
 ## Continue learning
 
 - Read [Japanese sourcing](/docs/japanese-tea-sourcing) for the fictional selection and review workflow.
