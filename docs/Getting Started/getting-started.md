@@ -39,6 +39,10 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
   ### **Grind size matters:** Powdered tea (matcha) should be stone-ground to a fine, talc-like consistency. For leaf teas, keep leaves whole — grinding them increases bitterness and astringency.
 </Callout>
 
+<Callout icon="💧" theme="default">
+  ### **Water hardness:** Soft or filtered water (50–80 ppm) brings out the sweetness and umami in Japanese green teas. Hard water can mute delicate flavors and leave a chalky aftertaste — if your tap water is above 150 ppm, consider using a charcoal or carbon filter.
+</Callout>
+
 ## Start here
 
 <Cards>
