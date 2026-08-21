@@ -30,6 +30,20 @@ Start with fresh, cold water each time you brew. Reboiled water loses dissolved 
   **Quick cool trick:** Pouring boiled water from one vessel into another drops the temperature by roughly 5–10°C per transfer.
 </Callout>
 
+## Electricity costs when boiling water
+
+Boiling water multiple times a day adds up on your electricity bill. A few small habits can reduce the cost without changing how your tea tastes.
+
+1. **Boil only what you need.** Measure the water for your recipe before filling the kettle. Heating excess water wastes energy.
+2. **Use a lid.** Keeping the kettle lid closed while heating reduces heat loss and shortens boil time.
+3. **Descale your kettle regularly.** Mineral buildup on the heating element forces the kettle to work harder and use more electricity.
+4. **Consider an insulated (vacuum) kettle.** These models keep water hot for hours, so you can boil once and pour at temperature for several sessions.
+5. **Match your kettle to your usage.** A smaller kettle heats faster and uses less power for single servings. A variable-temperature kettle avoids the cost of a full boil when your recipe calls for cooler water.
+
+<Callout icon="💡" theme="info">
+  **Rough estimate:** A standard 1.7 L electric kettle uses about 0.1 kWh per full boil. At an average electricity rate, that is only a few cents per boil — but three or four boils a day can add several dollars to a monthly bill.
+</Callout>
+
 ## Brew leaf tea
 
 Start with this baseline for the fictional steamed green and roasted tea styles.
