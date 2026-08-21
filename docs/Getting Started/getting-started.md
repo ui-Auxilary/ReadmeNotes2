@@ -43,6 +43,10 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
   ### **Water hardness:** Soft or filtered water (50–80 ppm) brings out the sweetness and umami in Japanese green teas. Hard water can mute delicate flavors and leave a chalky aftertaste — if your tap water is above 150 ppm, consider using a charcoal or carbon filter.
 </Callout>
 
+<Callout icon="🌡️" theme="default">
+  ### **Serving temperature:** Let brewed tea cool slightly before serving — most Japanese green teas are best enjoyed at 60–70°C (140–158°F). Serving too hot masks the tea's sweetness and umami, while serving too cool can dull its aroma.
+</Callout>
+
 ## Troubleshooting
 
 | Problem                             | Likely cause                         | Fix                                                                             |
