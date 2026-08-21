@@ -5,7 +5,7 @@ excerpt: >-
   tea from Japan.
 hidden: false
 ---
-Use these fictional sample pages to explore teaCapital’s approach to sourcing, selecting, and preparing Japanese tea.!
+Welcome to teaCapital — a fictional tea brand built to showcase what great documentation looks like. Browse these sample pages to see how teaCapital sources its teas from Japan, curates a thoughtful collection, and brews each cup with care.
 
 <Callout icon="📘" theme="info">
   **Fictional brand:** teaCapital and the information in these pages are sample documentation created for demonstration purposes.
