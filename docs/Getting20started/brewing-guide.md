@@ -17,6 +17,19 @@ Prepare a balanced cup of fictional teaCapital Japanese tea by starting with a m
 3. Prepare an infuser or teapot for leaf tea. Use a bowl and whisk for powdered tea.
 4. Keep a timer nearby so you can repeat a recipe accurately.
 
+## Boil your water
+
+Start with fresh, cold water each time you brew. Reboiled water loses dissolved oxygen and can make tea taste flat.
+
+1. Fill your kettle with cold, filtered water. Avoid distilled water — a small amount of mineral content improves flavor.
+2. Bring the water to a full, rolling boil (100°C / 212°F).
+3. If your recipe calls for a lower temperature, let the boiled water cool in the kettle or pour it into a separate vessel to speed cooling. As a rough guide, water loses about 10°C for every minute it sits off the heat in an open kettle.
+4. Use a thermometer or a kettle with a temperature display for accuracy. Small differences in temperature noticeably change the taste of green and powdered teas.
+
+<Callout icon="💡" theme="info">
+  **Quick cool trick:** Pouring boiled water from one vessel into another drops the temperature by roughly 5–10°C per transfer.
+</Callout>
+
 ## Brew leaf tea
 
 Start with this baseline for the fictional steamed green and roasted tea styles.
