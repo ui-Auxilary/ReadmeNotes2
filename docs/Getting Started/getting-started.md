@@ -5,7 +5,7 @@ excerpt: >-
   tea from Japan.
 hidden: false
 ---
-Use these fictional sample pages to explore teaCapital’s approach to sourcing, selecting, and preparing Japanese tea?
+Use these fictional sample pages to explore teaCapital's approach to sourcing, selecting, and preparing Japanese tea — we're glad you're here!
 
 <Callout icon="📘" theme="info">
   **Fictional brand:** teaCapital and the information in these pages are sample documentation created for demonstration purposes.
@@ -21,7 +21,7 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
   </Card>
 
   <Card title="Tea collection" href="/docs/tea-collection" icon="fa-duotone fa-mug-hot">
-    Choose a tea style for the flavor and occasion you have in mind.
+    Find a tea style that matches the flavor and occasion you have in mind.
   </Card>
 
   <Card title="Brewing guide" href="/docs/brewing-guide" icon="fa-duotone fa-kettle">
@@ -32,7 +32,7 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
 <br />
 
 <Callout icon="🫖" theme="default">
-  ### **Kettle temperature:** For most Japanese green teas, heat your kettle to 80°C (176°F) before brewing.
+  ### **Kettle temperature:** For most Japanese green teas, heat your kettle to 80°C (176°F) before brewing. Your taste buds will thank you!
 </Callout>
 
 <Callout icon="🍵" theme="default">
@@ -40,14 +40,14 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
 </Callout>
 
 <Callout icon="💧" theme="default">
-  ### **Water hardness:** Soft or filtered water (50–80 ppm) brings out the sweetness and umami in Japanese green teas. Hard water can mute delicate flavors and leave a chalky aftertaste — if your tap water is above 150 ppm, consider using a charcoal or carbon filter.
+  ### **Water hardness:** Soft or filtered water (50–80 ppm) brings out the sweetness and umami in Japanese green teas. Hard water can mute those delicate flavors and leave a chalky aftertaste — if your tap water is above 150 ppm, a charcoal or carbon filter makes a big difference.
 </Callout>
 
 <Callout icon="🌡️" theme="default">
-  ### **Serving temperature:** Let brewed tea cool slightly before serving — most Japanese green teas are best enjoyed at 60–70°C (140–158°F). Serving too hot masks the tea's sweetness and umami, while serving too cool can dull its aroma.
+  ### **Serving temperature:** Let brewed tea cool slightly before serving — most Japanese green teas taste best at 60–70°C (140–158°F). Serving too hot masks the tea's sweetness and umami, while serving too cool can dull its aroma.
 </Callout>
 
-> 📝 **Note:** To keep your tea in the ideal serving range longer, pre-warm your cups by rinsing them with hot water before pouring. This prevents the cup from absorbing heat and dropping the tea's temperature too quickly.
+> 📝 **Tip:** Want to keep your tea in the ideal serving range longer? Pre-warm your cups by rinsing them with hot water before pouring. This keeps the cup from absorbing heat and dropping the tea's temperature too quickly.
 
 ## Troubleshooting
 
