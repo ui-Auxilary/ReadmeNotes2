@@ -74,3 +74,5 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
     Use a repeatable brewing method, then adjust it to taste.
   </Card>
 </Cards>
+
+Support is available 24/7.
