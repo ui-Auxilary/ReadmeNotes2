@@ -37,4 +37,8 @@ The fictional product descriptions use three kinds of information:
 
 Prepare two tea styles side by side using the same cup size. Taste the steamed green tea first, then the roasted tea, and finish with powdered tea if you include it. Rinse your cup with water between teas to keep the flavors distinct.
 
+## Store your tea
+
+Keep tea in an airtight, opaque container away from heat, moisture, and strong odors. A cool, dark cupboard works well for everyday storage. Avoid clear glass jars or countertop placement — light and temperature swings accelerate flavor loss. Once opened, aim to finish the tea within a few weeks for the best cup.
+
 Next, use the [brewing guide](/docs/brewing-guide) for starting measurements and troubleshooting.
