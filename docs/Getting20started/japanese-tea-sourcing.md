@@ -31,6 +31,16 @@ Use these fields in the fictional tea record:
 | Flavor notes | A short set of sensory descriptors | Sets expectations before brewing |
 | Brewing baseline | Tea amount, water amount, temperature, and time | Gives you a reliable first cup |
 
+## Harvest note
+
+Record the harvest season and flush (first flush, second flush, etc.) for each tea. Japanese teas are typically harvested between April and October, and the timing affects flavor:
+
+- **First flush (shincha):** Picked in spring, usually April–May. Tends to be sweeter and more aromatic.
+- **Second flush:** Picked in June–July. Often bolder with more astringency.
+- **Late harvest (bancha):** Picked from summer through autumn. Generally milder and lower in caffeine.
+
+Include the harvest year and, when available, the specific picking date from the producer. This information helps you compare lots across seasons and set accurate expectations in the [tea collection](/docs/tea-collection).
+
 ## Optional: adjust after tasting
 
 Treat the baseline as a starting point, not a rule. If the tea tastes too intense, use less leaf, cooler water, or a shorter steep. If it tastes thin, increase the leaf amount or extend the steep gradually.
