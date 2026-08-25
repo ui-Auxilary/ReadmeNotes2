@@ -18,8 +18,8 @@ teaCapital uses the following fictional workflow to keep each tea’s origin and
 2. **Review a producer sample.** Taste the tea and record sensory notes—such as vegetal, sweet, roasted, or savory—using the same terms that will appear in the collection.
 3. **Note the harvest timing.** Record the harvest season or flush—such as first flush (shincha), spring, or autumn—because picking time affects the tea's flavor intensity and sweetness.
 4. **Confirm lot details.** Assign the tea to a lot (a defined batch handled together) and retain the style, harvest timing, and tasting notes with that lot.
-4. **Set a brewing baseline.** Test a repeatable ratio of tea to water, then document a water temperature and steeping time that produces a balanced cup.
-5. **Publish the tea details.** Add the tea to the [collection](/docs/tea-collection) with its style and link to the relevant [brewing guidance](/docs/brewing-guide).
+5. **Set a brewing baseline.** Test a repeatable ratio of tea to water, then document a water temperature and steeping time that produces a balanced cup.
+6. **Publish the tea details.** Add the tea to the [collection](/docs/tea-collection) with its style and link to the relevant [brewing guidance](/docs/brewing-guide).
 
 ## Information to record for each tea
 
