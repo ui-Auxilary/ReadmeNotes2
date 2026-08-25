@@ -30,6 +30,10 @@ Start with fresh, cold water each time you brew. Reboiled water loses dissolved 
   **Quick cool trick:** Pouring boiled water from one vessel into another drops the temperature by roughly 5–10°C per transfer.
 </Callout>
 
+<Callout icon="🌡️" theme="warning">
+  **Water temperature matters:** Using the correct temperature is the single biggest factor in avoiding bitter or flat tea. Delicate steamed green teas need cooler water (around 70°C / 158°F), while roasted teas can handle hotter water (around 90°C / 194°F). Powdered tea sits in between at roughly 80°C / 176°F. When in doubt, err on the cooler side — you can always steep again, but you can't undo bitterness from water that was too hot.
+</Callout>
+
 ## Brew leaf tea
 
 Start with this baseline for the fictional steamed green and roasted tea styles.
