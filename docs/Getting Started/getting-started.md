@@ -31,6 +31,16 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
 
 <br />
 
+## Tea at a glance
+
+teaCapital focuses on three styles of Japanese tea, each with a distinct character:
+
+- **Steamed green tea** — Fresh, vegetal, and savory. Whole leaves are steeped in cooled hot water for a bright, expressive cup.
+- **Roasted tea** — Toasty, nutty, and warm. Whole leaves are steeped in hot water for a gentler, comforting flavor.
+- **Powdered tea (matcha)** — Full-bodied and vivid. Stone-ground powder is whisked with water so you drink the entire leaf.
+
+Browse the full [tea collection](/docs/tea-collection) to compare styles, or jump straight to the [brewing guide](/docs/brewing-guide) for temperatures and timing.
+
 <Callout icon="🫖" theme="default">
   ### **Kettle temperature:** For most Japanese green teas, heat your kettle to 80°C (176°F) before brewing.
 </Callout>
