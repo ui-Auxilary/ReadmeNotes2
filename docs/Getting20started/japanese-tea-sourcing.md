@@ -26,7 +26,7 @@ Use these fields in the fictional tea record:
 
 | Field | What to record | Why it matters |
 | --- | --- | --- |
-| Tea style | Steamed green, roasted, or powdered | Helps you select a preparation method |
+| Tea style | Steamed green tea, roasted tea, or powdered tea | Helps you select a preparation method |
 | Lot | The batch identifier used internally | Keeps tasting notes connected to a specific batch |
 | Flavor notes | A short set of sensory descriptors | Sets expectations before brewing |
 | Brewing baseline | Tea amount, water amount, temperature, and time | Gives you a reliable first cup |
