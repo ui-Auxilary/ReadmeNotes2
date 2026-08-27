@@ -14,7 +14,7 @@ Prepare a balanced cup of fictional teaCapital Japanese tea by starting with a m
 
 1. Use a scale to measure tea and water.
 2. Heat fresh water in a kettle with temperature control, or let boiled water cool before pouring.
-3. Prepare an infuser or teapot for leaf tea. Use a bowl and whisk for powdered tea.
+3. Prepare an infuser or teapot for leaf tea.
 4. Keep a timer nearby so you can repeat a recipe accurately.
 
 ## Boil your water
@@ -24,7 +24,7 @@ Start with fresh, cold water each time you brew. Reboiled water loses dissolved 
 1. Fill your kettle with cold, filtered water. Avoid distilled water — a small amount of mineral content improves flavor.
 2. Bring the water to a full, rolling boil (100°C / 212°F).
 3. If your recipe calls for a lower temperature, let the boiled water cool in the kettle or pour it into a separate vessel to speed cooling. As a rough guide, water loses about 10°C for every minute it sits off the heat in an open kettle.
-4. Use a thermometer or a kettle with a temperature display for accuracy. Small differences in temperature noticeably change the taste of green and powdered teas.
+4. Use a thermometer or a kettle with a temperature display for accuracy. Small differences in temperature noticeably change the taste of green tea.
 
 <Callout icon="💡" theme="info">
   **Quick cool trick:** Pouring boiled water from one vessel into another drops the temperature by roughly 5–10°C per transfer.
@@ -46,13 +46,6 @@ Start with this baseline for the fictional steamed green and roasted tea styles.
 3. Pour the water over the leaves and start the timer.
 4. Pour the entire infusion into your cup when the timer ends. Fully decanting (pouring out all liquid) prevents the leaves from continuing to steep.
 5. Taste the tea while it is warm.
-
-## Whisk powdered tea
-
-1. Sift 2 g of powdered tea into a bowl to break up clumps.
-2. Add 60 ml of water at 80°C / 176°F.
-3. Whisk briskly in a zigzag motion for about 20 seconds, until the surface looks evenly mixed and lightly foamy.
-4. Drink promptly, then swirl the bowl between sips if powder begins to settle.
 
 ## Brew cold tea
 
