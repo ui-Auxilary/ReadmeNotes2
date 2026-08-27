@@ -26,6 +26,10 @@ Start with fresh, cold water each time you brew. Reboiled water loses dissolved 
 3. If your recipe calls for a lower temperature, let the boiled water cool in the kettle or pour it into a separate vessel to speed cooling. As a rough guide, water loses about 10°C for every minute it sits off the heat in an open kettle.
 4. Use a thermometer or a kettle with a temperature display for accuracy. Small differences in temperature noticeably change the taste of green and powdered teas.
 
+<Callout icon="🚰" theme="info">
+  **Water filtering:** If your tap water has a strong chlorine taste or heavy mineral content, run it through a simple carbon or charcoal filter before brewing. Filtering removes off-flavors that can mask the tea's natural character, but keep some mineral content — completely pure water produces a flat-tasting cup.
+</Callout>
+
 <Callout icon="💡" theme="info">
   **Quick cool trick:** Pouring boiled water from one vessel into another drops the temperature by roughly 5–10°C per transfer.
 </Callout>
