@@ -1,18 +1,18 @@
 ---
-title: About teaCapital
+title: About TeaCapital Co
 excerpt: >-
-  Learn about the fictional teaCapital brand and its sample approach to Japanese
-  tea.
+  Learn about the fictional TeaCapital Co brand and its sample approach to
+  Japanese tea.
 ---
-Learn how the fictional teaCapital brand connects people with Japanese teas selected for everyday brewing.
+Learn how the fictional TeaCapital Co brand connects people with Japanese teas selected for everyday brewing.
 
 <Callout icon="📘" theme="info">
-  **Fictional brand:** This page is sample documentation. teaCapital, its practices, and the examples below are fictional.
+  **Fictional brand:** This page is sample documentation. TeaCapital Co, its practices, and the examples below are fictional.
 </Callout>
 
-## What teaCapital does
+## What TeaCapital Co does
 
-teaCapital is a fictional tea company centered on teas sourced from Japan. Its sample collection is organized to help new and experienced drinkers choose a tea by flavor, preparation method, and moment of the day.
+TeaCapital Co is a fictional tea company centered on teas sourced from Japan. Its sample collection is organized to help new and experienced drinkers choose a tea by flavor, preparation method, and moment of the day.
 
 The brand’s fictional approach is to make origin and preparation easier to understand. Each tea is presented with a clear style, a recommended brewing starting point, and room for you to adjust the cup to your preference.
 
@@ -28,7 +28,7 @@ Read the [tea collection](/docs/tea-collection) guide to compare these styles. T
 
 ## Sample sourcing principles
 
-The fictional teaCapital sourcing program uses three principles:
+The fictional TeaCapital Co sourcing program uses three principles:
 
 1. **Know the tea style.** Record whether a tea is steamed, roasted, or ground into powder so you can choose an appropriate preparation method.
 2. **Keep lots distinct.** Treat each arrival as a separate lot (a defined batch of tea handled together) to make tasting and inventory review easier.
