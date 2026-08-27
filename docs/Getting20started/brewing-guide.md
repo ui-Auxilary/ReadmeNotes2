@@ -4,7 +4,7 @@ excerpt: >-
   Use fictional sample recipes to brew Japanese tea, adjust flavor, and
   troubleshoot your cup.
 ---
-Prepare a balanced cup of fictional teaCapital Japanese tea by starting with a measured recipe and adjusting one variable at a time.
+Ready to brew the perfect cup? Start with one of these simple recipes, taste what you get, and tweak one thing at a time until it's just right.
 
 <Callout icon="📘" theme="info">
   **Fictional brand:** These recipes are illustrative starting points for sample documentation. Adjust them for your equipment, water, and preference.
