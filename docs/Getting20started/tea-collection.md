@@ -2,7 +2,7 @@
 title: Tea collection
 excerpt: Compare fictional teaCapital tea styles and choose a Japanese tea to prepare.
 ---
-Choose a fictional teaCapital tea style based on the flavor profile and preparation experience you want.
+Not sure where to start? Browse the styles below, pick one that sounds appealing, and we'll help you brew a great first cup.
 
 <Callout icon="📘" theme="info">
   **Fictional brand:** The collection and tasting descriptions on this page are sample content, not real products.
