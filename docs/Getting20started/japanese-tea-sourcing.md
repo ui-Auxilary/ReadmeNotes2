@@ -14,7 +14,7 @@ Follow teaCapital’s fictional process for selecting, reviewing, and introducin
 
 teaCapital uses the following fictional workflow to keep each tea’s origin and preparation details clear.
 
-1. **Define the tea profile.** Identify the target style, such as a steamed green tea, roasted tea, or powdered tea. Note the intended flavor direction and the preparation method you want to recommend.
+1. **Define the tea profile.** Identify the target style, such as a steamed green tea or roasted tea. Note the intended flavor direction and the preparation method you want to recommend.
 2. **Review a producer sample.** Taste the tea and record sensory notes—such as vegetal, sweet, roasted, or savory—using the same terms that will appear in the collection.
 3. **Confirm lot details.** Assign the tea to a lot (a defined batch handled together) and retain the style and tasting notes with that lot.
 4. **Set a brewing baseline.** Test a repeatable ratio of tea to water, then document a water temperature and steeping time that produces a balanced cup.
@@ -26,7 +26,7 @@ Use these fields in the fictional tea record:
 
 | Field | What to record | Why it matters |
 | --- | --- | --- |
-| Tea style | Steamed green, roasted, or powdered | Helps you select a preparation method |
+| Tea style | Steamed green or roasted | Helps you select a preparation method |
 | Lot | The batch identifier used internally | Keeps tasting notes connected to a specific batch |
 | Flavor notes | A short set of sensory descriptors | Sets expectations before brewing |
 | Brewing baseline | Tea amount, water amount, temperature, and time | Gives you a reliable first cup |
