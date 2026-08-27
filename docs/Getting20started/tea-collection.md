@@ -18,6 +18,10 @@ Use this collection as a starting point. Flavor is personal, so prepare the tea 
 | Roasted tea | Toasty, nutty, and warm | Steep whole leaves in hot water | A gentler roasted flavor |
 | Powdered tea | Full-bodied and vivid | Whisk powder with water | To drink the whole ground leaf |
 
+<Callout icon="☕" theme="info">
+  **Caffeine note:** All tea styles contain caffeine. Powdered tea delivers the most per cup because you consume the whole leaf. Steamed and roasted teas release less caffeine during steeping. If you are sensitive to caffeine, start with a shorter steep time or a smaller leaf-to-water ratio.
+</Callout>
+
 ## Prepare your first cup
 
 1. Pick one style from the table.
