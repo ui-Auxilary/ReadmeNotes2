@@ -35,9 +35,6 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
   ### **Kettle temperature:** For most Japanese green teas, heat your kettle to 80°C (176°F) before brewing.
 </Callout>
 
-<Callout icon="🍵" theme="default">
-  ### **Grind size matters:** Powdered tea (matcha) should be stone-ground to a fine, talc-like consistency. For leaf teas, keep leaves whole — grinding them increases bitterness and astringency.
-</Callout>
 
 <Callout icon="💧" theme="default">
   ### **Water hardness:** Soft or filtered water (50–80 ppm) brings out the sweetness and umami in Japanese green teas. Hard water can mute delicate flavors and leave a chalky aftertaste — if your tap water is above 150 ppm, consider using a charcoal or carbon filter.
@@ -55,7 +52,7 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
 | ----------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------- |
 | Tea tastes bitter or astringent     | Water too hot or steeped too long    | Lower the temperature to 70–80°C and shorten the steep by 15–30 seconds.        |
 | Weak or watery flavor               | Too little leaf or too much water    | Increase the leaf-to-water ratio or reduce the water volume.                    |
-| Matcha is clumpy                    | Powder not sifted or water too cool  | Sift the matcha through a fine mesh strainer and use water at 80°C.             |
+
 | Cloudy or off-tasting brew          | Hard or heavily chlorinated water    | Switch to filtered or soft water (50–80 ppm).                                   |
 | Leaves taste flat after first steep | Over-extracted on the first infusion | Use a shorter first steep so the leaves retain flavor for additional infusions. |
 
