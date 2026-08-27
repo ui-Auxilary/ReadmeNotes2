@@ -16,7 +16,7 @@ Use this collection as a starting point. Flavor is personal, so prepare the tea 
 | --- | --- | --- | --- |
 | Steamed green tea | Fresh, vegetal, and savory | Steep whole leaves in cooled hot water | A bright, expressive cup |
 | Roasted tea | Toasty, nutty, and warm | Steep whole leaves in hot water | A gentler roasted flavor |
-| Powdered tea | Full-bodied and vivid | Whisk powder with water | To drink the whole ground leaf |
+
 
 ## Prepare your first cup
 
@@ -35,6 +35,6 @@ The fictional product descriptions use three kinds of information:
 
 ## Optional: build a tasting flight
 
-Prepare two tea styles side by side using the same cup size. Taste the steamed green tea first, then the roasted tea, and finish with powdered tea if you include it. Rinse your cup with water between teas to keep the flavors distinct.
+Prepare two tea styles side by side using the same cup size. Taste the steamed green tea first, then the roasted tea. Rinse your cup with water between teas to keep the flavors distinct.
 
 Next, use the [brewing guide](/docs/brewing-guide) for starting measurements and troubleshooting.
