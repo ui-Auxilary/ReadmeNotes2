@@ -36,7 +36,7 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
 </Callout>
 
 <Callout icon="🍵" theme="default">
-  ### **Grind size matters:** Powdered tea (matcha) should be stone-ground to a fine, talc-like consistency. For leaf teas, keep leaves whole — grinding them increases bitterness and astringency.
+  ### **Grind size matters:** Powdered tea should be stone-ground to a fine, talc-like consistency. For leaf teas, keep leaves whole — grinding them increases bitterness and astringency.
 </Callout>
 
 <Callout icon="💧" theme="default">
