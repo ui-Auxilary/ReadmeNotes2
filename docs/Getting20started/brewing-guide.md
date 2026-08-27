@@ -30,6 +30,10 @@ Start with fresh, cold water each time you brew. Reboiled water loses dissolved 
   **Quick cool trick:** Pouring boiled water from one vessel into another drops the temperature by roughly 5–10°C per transfer.
 </Callout>
 
+<Callout icon="🌡️" theme="info">
+  **Water temperature by style:** Steamed green tea — 70°C / 158°F. Roasted tea — 90°C / 194°F. Powdered tea — 80°C / 176°F. These are starting points; adjust to taste.
+</Callout>
+
 ## Brew leaf tea
 
 Start with this baseline for the fictional steamed green and roasted tea styles.
