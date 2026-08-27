@@ -37,4 +37,13 @@ The fictional product descriptions use three kinds of information:
 
 Prepare two tea styles side by side using the same cup size. Taste the steamed green tea first, then the roasted tea, and finish with powdered tea if you include it. Rinse your cup with water between teas to keep the flavors distinct.
 
+## Store your tea
+
+Keep tea fresh so every cup tastes as intended.
+
+- **Keep it airtight.** Transfer leaves or powder to an opaque, airtight container as soon as you open the package.
+- **Avoid heat and light.** Store the container in a cool, dark cupboard—not next to the stove or in direct sunlight.
+- **Skip the fridge for daily use.** Refrigeration can introduce moisture when you open the container. Only freeze tea if you plan to store it long-term, and let the sealed container reach room temperature before opening.
+- **Use it promptly.** For the best flavor, finish opened tea within four to six weeks.
+
 Next, use the [brewing guide](/docs/brewing-guide) for starting measurements and troubleshooting.
