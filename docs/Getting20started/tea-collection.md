@@ -37,4 +37,6 @@ The fictional product descriptions use three kinds of information:
 
 Prepare two tea styles side by side using the same cup size. Taste the steamed green tea first, then the roasted tea, and finish with powdered tea if you include it. Rinse your cup with water between teas to keep the flavors distinct.
 
+> 🌍 **International shipping:** teaCapital ships internationally. Availability and delivery times vary by destination.
+
 Next, use the [brewing guide](/docs/brewing-guide) for starting measurements and troubleshooting.
