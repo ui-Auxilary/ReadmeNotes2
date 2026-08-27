@@ -4,15 +4,15 @@ excerpt: >-
   Explore a fictional sample workflow for selecting and documenting tea sourced
   from Japan.
 ---
-Follow teaCapital’s fictional process for selecting, reviewing, and introducing teas sourced from Japan.
+FolTeaCapital Co’s fictional process for selecting, reviewing, and introducing teas sourced from Japan.
 
 <Callout icon="📘" theme="info">
-  **Fictional brand:** This workflow is a sample for documentation purposes. It does not describe a real teaCapital supply chain or producer relationship.
+  **Fictional brand:** This workflow is a sample for documentation purposes. It does not describe a real TeaCapital Co supply chain or producer relationship.
 </Callout>
 
 ## The sample sourcing workflow
 
-teaCapital uses the following fictional workflow to keep each tea’s origin and preparation details clear.
+teaCapital Co uses the following fictional workflow to keep each tea’s origin and preparation details clear.
 
 1. **Define the tea profile.** Identify the target style, such as a steamed green tea, roasted tea, or powdered tea. Note the intended flavor direction and the preparation method you want to recommend.
 2. **Review a producer sample.** Taste the tea and record sensory notes—such as vegetal, sweet, roasted, or savory—using the same terms that will appear in the collection.
