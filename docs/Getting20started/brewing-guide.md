@@ -30,6 +30,19 @@ Start with fresh, cold water each time you brew. Reboiled water loses dissolved 
   **Quick cool trick:** Pouring boiled water from one vessel into another drops the temperature by roughly 5–10°C per transfer.
 </Callout>
 
+<Callout icon="🌡️" theme="info">
+  **Water temperature at a glance:** Different tea styles extract best at different temperatures. Use these as starting points:
+
+  | Tea style | Temperature |
+  | --- | --- |
+  | Steamed green tea | 70°C / 158°F |
+  | Powdered tea | 80°C / 176°F |
+  | Roasted tea | 90°C / 194°F |
+  | Cold brew | Room temp or cold |
+
+  When in doubt, err on the cooler side — you can always steep again at a higher temperature, but you can't undo bitterness from water that was too hot.
+</Callout>
+
 ## Brew leaf tea
 
 Start with this baseline for the fictional steamed green and roasted tea styles.
