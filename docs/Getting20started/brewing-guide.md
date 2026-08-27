@@ -85,4 +85,8 @@ Steamed green tea works especially well cold-brewed; roasted tea produces a ligh
 
 Record the tea style, tea amount, water amount, temperature, time, and your tasting notes. Change only one variable in the next brew to learn how it affects the cup.
 
+## Shipping
+
+teaCapital ships worldwide. Check the [tea collection](/docs/tea-collection) for available styles and order the tea you want to brew, wherever you are.
+
 Return to the [tea collection](/docs/tea-collection) to choose another style, or read about the fictional [Japanese sourcing workflow](/docs/japanese-tea-sourcing).
