@@ -22,15 +22,13 @@ Start by choosing the tea experience you want:
 
 - Choose **steamed green tea** for fresh, vegetal, or savory flavors.
 - Choose **roasted tea** for warm, nutty, or toasty flavors.
-- Choose **powdered tea** when you want to whisk the whole leaf into water.
-
 Read the [tea collection](/docs/tea-collection) guide to compare these styles. Then use the [brewing guide](/docs/brewing-guide) to prepare your chosen tea.
 
 ## Sample sourcing principles
 
 The fictional teaCapital sourcing program uses three principles:
 
-1. **Know the tea style.** Record whether a tea is steamed, roasted, or ground into powder so you can choose an appropriate preparation method.
+1. **Know the tea style.** Record whether a tea is steamed or roasted so you can choose an appropriate preparation method.
 2. **Keep lots distinct.** Treat each arrival as a separate lot (a defined batch of tea handled together) to make tasting and inventory review easier.
 3. **Share useful preparation details.** Give drinkers a water-to-tea ratio, water temperature, and steeping time as a dependable starting point.
 
