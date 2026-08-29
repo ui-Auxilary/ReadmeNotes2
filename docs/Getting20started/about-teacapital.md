@@ -34,6 +34,24 @@ The fictional teaCapital sourcing program uses three principles:
 2. **Keep lots distinct.** Treat each arrival as a separate lot (a defined batch of tea handled together) to make tasting and inventory review easier.
 3. **Share useful preparation details.** Give drinkers a water-to-tea ratio, water temperature, and steeping time as a dependable starting point.
 
+## Health and wellness
+
+Japanese teas in the fictional teaCapital collection are naturally rich in compounds associated with everyday well-being. While individual results vary, here are the key health-related qualities of each tea style:
+
+| Tea style | Key compounds | Potential benefits |
+| --- | --- | --- |
+| Steamed green tea | Catechins, L-theanine, vitamin C | Antioxidant support, calm alertness, immune function |
+| Roasted tea | Catechins (lower levels), pyrazines | Gentle antioxidant support, digestive comfort |
+| Powdered tea | Concentrated catechins, L-theanine, chlorophyll | Higher antioxidant intake, sustained energy, focus |
+
+Because powdered tea uses the whole ground leaf, it delivers a more concentrated nutrient profile than steeped leaf teas.
+
+### Tips for a health-conscious cup
+
+- **Brew at the right temperature.** Cooler water (70–80°C) preserves heat-sensitive compounds like vitamin C and catechins.
+- **Drink it fresh.** Brew and consume tea the same day to get the most from its beneficial compounds.
+- **Skip the sweetener.** Tasting the tea unsweetened lets you appreciate its natural sweetness and keeps the cup calorie-free.
+
 ## Continue learning
 
 - Read [Japanese sourcing](/docs/japanese-tea-sourcing) for the fictional selection and review workflow.
