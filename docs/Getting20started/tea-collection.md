@@ -33,6 +33,31 @@ The fictional product descriptions use three kinds of information:
 - **Flavor notes** describe aromas and tastes you may notice; they are not added ingredients.
 - **Brewing baseline** gives a repeatable first recipe that you can tailor to your taste.
 
+## Green tea
+
+Green tea is made from the leaves of the *Camellia sinensis* plant that are quickly heated after harvest to prevent oxidation. This minimal processing preserves the leaf's natural color and fresh, vegetal flavor.
+
+### Common varieties
+
+| Variety | Origin | Flavor profile |
+| --- | --- | --- |
+| Sencha | Japan | Bright, grassy, and slightly sweet |
+| Gyokuro | Japan | Rich, umami-forward, and full-bodied |
+| Matcha | Japan | Vivid, creamy, and intensely vegetal |
+| Hojicha | Japan | Roasted, nutty, and low in astringency |
+| Longjing (Dragon Well) | China | Smooth, chestnut-like, and mellow |
+
+### Key characteristics
+
+- **Color:** Brewed green tea ranges from pale yellow-green to deep jade, depending on the variety and preparation.
+- **Caffeine:** Generally contains less caffeine than black tea or coffee, though shade-grown varieties like gyokuro and matcha have higher levels.
+- **Best water temperature:** 60–80 °C (140–176 °F). Using water that is too hot can make green tea taste bitter.
+- **Steeping time:** 30 seconds to 2 minutes for most varieties. Shorter steeps highlight sweetness; longer steeps bring out more body and astringency.
+
+### Health highlights
+
+Green tea is rich in catechins and L-theanine. Catechins are antioxidants linked to cardiovascular health, while L-theanine promotes calm alertness. These benefits are most pronounced in high-quality, freshly stored tea.
+
 ## Green tea expiry date
 
 Green tea is best enjoyed fresh. Over time, exposure to air, light, moisture, and heat breaks down the compounds that give green tea its bright flavor and aroma.
