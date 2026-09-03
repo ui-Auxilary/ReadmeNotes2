@@ -86,3 +86,5 @@ Expired green tea is generally safe to drink but will lack the flavor and aroma 
 Prepare two tea styles side by side using the same cup size. Taste the steamed green tea first, then the roasted tea, and finish with powdered tea if you include it. Rinse your cup with water between teas to keep the flavors distinct.
 
 Next, use the [brewing guide](/docs/brewing-guide) for starting measurements and troubleshooting.
+
+If a cup doesn't turn out the way you expected, retry with a small adjustment—great tea often takes a few attempts to dial in.
