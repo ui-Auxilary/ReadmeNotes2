@@ -21,7 +21,7 @@ Use this collection as a starting point. Flavor is personal, so prepare the tea 
 ## Prepare your first cup
 
 1. Pick one style from the table.
-2. Read its suggested water temperature and time in the [brewing guide](/docs/brewing-guide).
+2. Note its suggested water temperature and steeping time.
 3. Taste before changing the recipe. Note whether you want more body, less bitterness, or a stronger aroma.
 4. Change one variable for the next cup—leaf amount, water temperature, or steeping time—so you can tell what improved the result.
 
@@ -61,4 +61,3 @@ Expired green tea is generally safe to drink but will lack the flavor and aroma 
 
 Prepare two tea styles side by side using the same cup size. Taste the steamed green tea first, then the roasted tea, and finish with powdered tea if you include it. Rinse your cup with water between teas to keep the flavors distinct.
 
-Next, use the [brewing guide](/docs/brewing-guide) for starting measurements and troubleshooting.
