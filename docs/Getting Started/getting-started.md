@@ -5,7 +5,7 @@ excerpt: >-
   tea from Japan.
 hidden: false
 ---
-Use these fictional sample pages to explore teaCapital’s approach to sourcing, selecting, and preparing Japanese tea?
+Welcome to teaCapital's onboarding flow — follow the steps below to get set up, explore our sourcing and selection process, and start brewing Japanese tea in minutes.
 
 <Callout icon="📘" theme="info">
   **Fictional brand:** teaCapital and the information in these pages are sample documentation created for demonstration purposes.
