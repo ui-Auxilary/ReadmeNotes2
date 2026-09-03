@@ -24,7 +24,7 @@ Start by choosing the tea experience you want:
 - Choose **roasted tea** for warm, nutty, or toasty flavors.
 - Choose **powdered tea** when you want to whisk the whole leaf into water.
 
-Read the [tea collection](/docs/tea-collection) guide to compare these styles. Then use the [brewing guide](/docs/brewing-guide) to prepare your chosen tea.
+Read the [tea collection](/docs/tea-collection) guide to compare these styles.
 
 ## Sample sourcing principles
 
@@ -56,4 +56,3 @@ Because powdered tea uses the whole ground leaf, it delivers a more concentrated
 
 - Read [Japanese sourcing](/docs/japanese-tea-sourcing) for the fictional selection and review workflow.
 - Read [Tea collection](/docs/tea-collection) to choose a style.
-- Read [Brewing guide](/docs/brewing-guide) before preparing your first cup.
