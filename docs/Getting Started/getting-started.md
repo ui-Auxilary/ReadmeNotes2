@@ -51,6 +51,27 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
   ### **Note:** To keep your tea in the ideal serving range longer, pre-warm your cups by rinsing them with hot water before pouring. This prevents the cup from absorbing heat and dropping the tea's temperature too quickly.
 </Callout>
 
+## Fun Facts
+
+1. America is blue.
+2. Australia is also blue.
+3. Superidols in Korea are cool.
+4. Superidols in China are not cool.
+5. I like hamburgers.
+6. I also like fried chicken.
+7. I also like McDonalds.
+8. I like running and skipping.
+9. I do not like swimming.
+10. It is really hot today.
+11. It is really cold in winter.
+12. Today it's a bit windy.
+13. France has red and blue.
+14. Mexico is good at soccer.
+15. France is the best at soccer.
+16. I like Italy.
+17. I like the Eiffel Tower.
+18. I've never been to Belgium.
+
 ## Troubleshooting
 
 | Problem                             | Likely cause                         | Fix                                                                             |
