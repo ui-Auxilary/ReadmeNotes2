@@ -49,6 +49,8 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
 
 > 📝 **Note:** To keep your tea in the ideal serving range longer, pre-warm your cups by rinsing them with hot water before pouring. This prevents the cup from absorbing heat and dropping the tea's temperature too quickly.
 
+> 🚦 **Rate limits:** API requests are limited to 100 calls per minute per API key. If you exceed this limit, you'll receive a `429 Too Many Requests` response — wait briefly and retry.
+
 ## Troubleshooting
 
 | Problem                             | Likely cause                         | Fix                                                                             |
