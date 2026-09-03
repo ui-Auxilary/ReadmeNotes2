@@ -33,6 +33,30 @@ The fictional product descriptions use three kinds of information:
 - **Flavor notes** describe aromas and tastes you may notice; they are not added ingredients.
 - **Brewing baseline** gives a repeatable first recipe that you can tailor to your taste.
 
+## Green tea expiry date
+
+Green tea is best enjoyed fresh. Over time, exposure to air, light, moisture, and heat breaks down the compounds that give green tea its bright flavor and aroma.
+
+| Storage method | Approximate shelf life |
+| --- | --- |
+| Unopened, sealed pouch | Up to 12 months from the production date |
+| Opened pouch, stored in an airtight container | 1–3 months for peak flavor |
+| Refrigerated, airtight container | Up to 6 months after opening |
+
+**Signs that green tea has passed its prime:**
+
+- The dry leaves smell flat or stale instead of fresh and vegetal.
+- The brewed cup tastes dull, overly bitter, or papery.
+- The leaf color has shifted from vibrant green to yellow-brown.
+
+**Storage tips:**
+
+- Keep tea in an opaque, airtight container away from strong odors.
+- Avoid storing tea near spices or coffee, which can transfer flavors.
+- If you refrigerate tea, let the container reach room temperature before opening it to prevent condensation on the leaves.
+
+Expired green tea is generally safe to drink but will lack the flavor and aroma of a fresh cup. When in doubt, brew a small amount and taste it before preparing a full serving.
+
 ## Optional: build a tasting flight
 
 Prepare two tea styles side by side using the same cup size. Taste the steamed green tea first, then the roasted tea, and finish with powdered tea if you include it. Rinse your cup with water between teas to keep the flavors distinct.
