@@ -18,7 +18,7 @@ teaCapital uses the following fictional workflow to keep each tea’s origin and
 2. **Review a producer sample.** Taste the tea and record sensory notes—such as vegetal, sweet, roasted, or savory—using the same terms that will appear in the collection.
 3. **Confirm lot details.** Assign the tea to a lot (a defined batch handled together) and retain the style and tasting notes with that lot.
 4. **Set a brewing baseline.** Test a repeatable ratio of tea to water, then document a water temperature and steeping time that produces a balanced cup.
-5. **Publish the tea details.** Add the tea to the [collection](/docs/tea-collection) with its style and link to the relevant [brewing guidance](/docs/brewing-guide).
+5. **Publish the tea details.** Add the tea to the [collection](/docs/tea-collection) with its style and brewing guidance.
 
 ## Information to record for each tea
 
@@ -35,4 +35,4 @@ Use these fields in the fictional tea record:
 
 Treat the baseline as a starting point, not a rule. If the tea tastes too intense, use less leaf, cooler water, or a shorter steep. If it tastes thin, increase the leaf amount or extend the steep gradually.
 
-Continue with the [tea collection](/docs/tea-collection) to select a style, or use the [brewing guide](/docs/brewing-guide) to make a cup.
+Continue with the [tea collection](/docs/tea-collection) to select a style.
