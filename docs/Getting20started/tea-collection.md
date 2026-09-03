@@ -33,30 +33,29 @@ The fictional product descriptions use three kinds of information:
 - **Flavor notes** describe aromas and tastes you may notice; they are not added ingredients.
 - **Brewing baseline** gives a repeatable first recipe that you can tailor to your taste.
 
-## Green tea
+## Jasmine tea
 
-Green tea is made from the leaves of the *Camellia sinensis* plant that are quickly heated after harvest to prevent oxidation. This minimal processing preserves the leaf's natural color and fresh, vegetal flavor.
+Jasmine tea is made by scenting tea leaves—most commonly green tea—with fresh jasmine blossoms. The flowers are layered with the leaves over several nights, infusing them with a sweet, floral fragrance before being removed.
 
 ### Common varieties
 
-| Variety | Origin | Flavor profile |
+| Variety | Base tea | Flavor profile |
 | --- | --- | --- |
-| Sencha | Japan | Bright, grassy, and slightly sweet |
-| Gyokuro | Japan | Rich, umami-forward, and full-bodied |
-| Matcha | Japan | Vivid, creamy, and intensely vegetal |
-| Hojicha | Japan | Roasted, nutty, and low in astringency |
-| Longjing (Dragon Well) | China | Smooth, chestnut-like, and mellow |
+| Jasmine Silver Needle | White tea | Delicate, honeyed, and subtly floral |
+| Jasmine Dragon Pearl | Green tea | Smooth, aromatic, and well-rounded |
+| Jasmine Oolong | Oolong tea | Rich, creamy, and layered with floral notes |
+| Jasmine Sencha | Japanese green tea | Bright, grassy, and lightly perfumed |
 
 ### Key characteristics
 
-- **Color:** Brewed green tea ranges from pale yellow-green to deep jade, depending on the variety and preparation.
-- **Caffeine:** Generally contains less caffeine than black tea or coffee, though shade-grown varieties like gyokuro and matcha have higher levels.
-- **Best water temperature:** 60–80 °C (140–176 °F). Using water that is too hot can make green tea taste bitter.
-- **Steeping time:** 30 seconds to 2 minutes for most varieties. Shorter steeps highlight sweetness; longer steeps bring out more body and astringency.
+- **Color:** Brewed jasmine tea is typically a pale golden-yellow, though the shade varies with the base tea used.
+- **Caffeine:** Comparable to the base tea—jasmine green tea contains moderate caffeine, while jasmine white tea is lower.
+- **Best water temperature:** 75–85 °C (167–185 °F). Water that is too hot can overpower the delicate floral notes.
+- **Steeping time:** 2–3 minutes for most varieties. Shorter steeps emphasize floral sweetness; longer steeps bring out more of the base tea's body.
 
 ### Health highlights
 
-Green tea is rich in catechins and L-theanine. Catechins are antioxidants linked to cardiovascular health, while L-theanine promotes calm alertness. These benefits are most pronounced in high-quality, freshly stored tea.
+Jasmine tea retains the antioxidant benefits of its base tea, including catechins from green tea. The jasmine aroma is also associated with calming effects, making it a popular choice for relaxation.
 
 ## Green tea expiry date
 
