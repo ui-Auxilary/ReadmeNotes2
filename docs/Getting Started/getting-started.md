@@ -60,6 +60,7 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
 | Matcha is clumpy                    | Powder not sifted or water too cool  | Sift the matcha through a fine mesh strainer and use water at 80°C.             |
 | Cloudy or off-tasting brew          | Hard or heavily chlorinated water    | Switch to filtered or soft water (50–80 ppm).                                   |
 | Leaves taste flat after first steep | Over-extracted on the first infusion | Use a shorter first steep so the leaves retain flavor for additional infusions. |
+| No improvement after re-steeping    | Same parameters used on every retry  | Increase water temperature by 5°C and extend steep time by 15–20 seconds with each successive infusion to extract remaining flavor. |
 
 ## Start here
 
