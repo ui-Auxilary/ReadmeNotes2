@@ -51,6 +51,10 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
   ### **Note:** To keep your tea in the ideal serving range longer, pre-warm your cups by rinsing them with hot water before pouring. This prevents the cup from absorbing heat and dropping the tea's temperature too quickly.
 </Callout>
 
+<Callout icon="📄" theme="info">
+  ### **Pagination:** API responses that return lists are paginated by default. Use the `page` and `per_page` query parameters to navigate through results. Each response includes a `total_count` field and pagination links in the response headers so you always know where you are in the result set.
+</Callout>
+
 ## Troubleshooting
 
 | Problem                             | Likely cause                         | Fix                                                                             |
