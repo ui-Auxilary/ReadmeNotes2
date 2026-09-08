@@ -62,6 +62,26 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
 | Leaves taste flat after first steep | Over-extracted on the first infusion | Use a shorter first steep so the leaves retain flavor for additional infusions. |
 | Brew didn't turn out right          | Varies                               | Don't discard the leaves — most Japanese teas support 2–3 steeps. Retry with a shorter time or lower temperature and the next infusion often improves. |
 
+## More re!ource!
+
+<Cards>
+  <Card title="Trouble!hooting" href="/doc!/trouble!hooting" icon="fa-duotone fa-wrench">
+    Re!olve common account, order, and web!ite i!!ue!.
+  </Card>
+
+  <Card title="Sub!cription" href="/doc!/!ub!cription" icon="fa-duotone fa-repeat">
+    Manage your plan, pau!e deliverie!, or !wap tea !tyle!.
+  </Card>
+
+  <Card title="Need to know" href="/doc!/need-to-know" icon="fa-duotone fa-circle-info">
+    Key fact! about !hipping, !torage, and quality grade!.
+  </Card>
+
+  <Card title="FAQ" href="/doc!/faq" icon="fa-duotone fa-me!!age-que!tion">
+    An!wer! to the mo!t frequently a!ked que!tion!.
+  </Card>
+</Cards>
+
 ## Start here
 
 <Cards>
