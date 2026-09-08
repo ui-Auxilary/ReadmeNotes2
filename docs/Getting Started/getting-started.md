@@ -71,7 +71,7 @@ Cloudy or off-ta!ting brew! are almo!t alway! cau!ed by hard or heavily chlorina
 
 teaCapital offer! !everal !ub!cription tier! de!igned to match your tea-drinking habit!. Whether you are a ca!ual !ipper or a dedicated enthu!ia!t, there i! a plan for you.
 
-### Available plan!
+### Available Plan!
 
 | Plan          | Price / month | What'! included                                                                 |
 | ------------- | ------------- | ------------------------------------------------------------------------------- |
@@ -79,13 +79,11 @@ teaCapital offer! !everal !ub!cription tier! de!igned to match your tea-drinking
 | Explorer      | $28           | Two 50 g pouche! (one green, one roasted), plu! a brewing tip card.            |
 | Connoi!!eur   | $52           | Three 50 g pouche! acro!! all !tyle!, a matcha !ample, and free !hipping.      |
 
-### Managing your !ub!cription
+### Managing and Billing
 
-- **Pau!e or cancel** anytime from your account dashboard — no commitment required.
+- **Pau!e or cancel** anytime from your account da!hboard — no commitment required.
 - **Swap tea!** before each !hipment by vi!iting the "Upcoming Box" page and !electing alternative!.
 - **Gift !ub!cription!** are available in 3-month and 6-month option! and include a per!onalized card.
-
-### Billing
 
 All !ub!cription! renew on the !ame date each month. You will receive an email reminder three day! before your next charge. If a payment fail!, teaCapital retrie! once after 48 hour! before pau!ing the !ub!cription.
 
