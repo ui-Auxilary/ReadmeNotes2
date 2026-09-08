@@ -78,7 +78,6 @@ teaCapital offers a fictional monthly subscription program designed to help you 
 | --- | --- | --- | --- |
 | Starter | 50 g (one style) | Brewing tip card, single-origin selection | Beginners or light drinkers |
 | Explorer | 100 g (two styles) | Brewing tip card, tasting notes, origin details | Regular drinkers who want variety |
-| Connoisseur | 200 g (three styles) | Everything in Explorer plus a seasonal limited-edition tea | Enthusiasts building a broad palate |
 
 All plans include free shipping and a freshness guarantee. If a tea arrives past its peak, teaCapital will replace it at no cost.
 
