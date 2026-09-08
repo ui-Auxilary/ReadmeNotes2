@@ -47,16 +47,6 @@ Definitions of key terms used across teaCapital's documentation, from tea styles
 
 **Chasen** is a hand-carved bamboo whisk used to prepare matcha. The tines of the whisk break up powder clumps and incorporate air into the liquid, creating the smooth, frothy texture that defines a well-made bowl of matcha. After each use, rinse the chasen under warm water and dry it on a whisk holder (kusenaoshi) to preserve the shape of the tines.
 
-## Sourcing and quality terms
-
-**First flush** (also called ichibancha) is the first harvest of the tea season, typically picked in late April or May. The leaves have accumulated amino acids during winter dormancy, which gives first-flush teas their characteristic sweetness, complexity, and vivid green color. Later harvests (second flush, third flush) tend to be more astringent and less nuanced, though they are still suitable for everyday drinking and blending.
-
-**Lot** refers to a defined batch of tea that is harvested, processed, and tracked as a single unit. teaCapital assigns a lot identifier to each arrival so that tasting notes, brewing baselines, and quality observations remain connected to a specific batch. If a quality issue arises, the lot system makes it possible to trace the problem back to its source and prevent it from recurring. See [Japanese tea sourcing](/docs/japanese-tea-sourcing) for more on how lots are managed.
-
-**Umami** is a Japanese word meaning "pleasant savory taste." In tea, umami comes primarily from L-theanine, an amino acid that is abundant in shade-grown varieties like gyokuro and matcha. A tea with strong umami tastes rich, brothy, and full-bodied rather than simply bitter or astringent. Brewing at lower temperatures and with more leaf per cup emphasizes umami over other flavor components.
-
-**Cultivar** refers to a specific variety of the tea plant (Camellia sinensis) that has been selectively bred for particular characteristics such as flavor, aroma, disease resistance, or harvest timing. Common Japanese cultivars include Yabukita (the most widely planted, known for balanced flavor), Saemidori (prized for sweetness and umami), and Okumidori (valued for its mild, approachable character). teaCapital notes the cultivar on each product page when the information is available from the producer.
-
 ## Next steps
 
 - Read [need to know](/docs/need-to-know) for essential guidance before your first order.
