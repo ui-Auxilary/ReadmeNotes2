@@ -41,20 +41,6 @@ If the result tastes stronger or more intense than what you are used to, reduce 
 
 Water is the variable most people overlook when switching suppliers. If your previous teas tasted fine with your tap water but the new ones seem flat or chalky, test your water's TDS level. teaCapital teas are developed with soft or filtered water (50–80 ppm) in mind, so a simple carbon filter may be all you need to close the gap.
 
-## Place and evaluate your first order
-
-With your shortlist and baseline recipes ready, place an order for two to three teas. When the package arrives, brew each tea once using the recommended baseline before making any changes. Taste them at the suggested serving temperature (60–70°C for green teas) and note your first impressions: aroma, sweetness, bitterness, body, and finish.
-
-If you still have stock from your previous supplier, brew the old and new teas side by side using the same water and cup. A direct comparison highlights the differences more clearly than memory alone. Pay attention to which qualities you prefer in each cup — you may find that the teaCapital version excels in umami but needs a cooler brew temperature to match the sweetness you are accustomed to. Record these observations so you can refine your recipe on the next brew.
-
-After two or three sessions with each tea, you will have enough data to decide which teas earn a permanent spot in your rotation and which need further adjustment. This is also a good time to explore the [subscription](/docs/subscription) plans if you want a recurring delivery schedule.
-
-## Complete the transition
-
-Once you have identified your preferred teas and dialed in your recipes, consolidate your orders with teaCapital. Moving to a single supplier simplifies inventory management and gives you access to consistent lot tracking — every tea is tied to a specific batch with documented tasting notes and brewing baselines. If a lot changes between orders, the product page reflects the update so you can adjust your recipe accordingly.
-
-Keep your brew log active even after the transition is complete. Seasonal variation, different harvest years, and new lots mean that the same tea name may taste slightly different from one order to the next. A running log helps you spot these shifts early and adapt your brewing rather than wondering why the cup changed. Over time, the log becomes a personal reference that makes every new teaCapital tea easier to dial in.
-
 ## Next steps
 
 - Browse the [tea collection](/docs/tea-collection) to find your first matches.
