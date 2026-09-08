@@ -21,9 +21,7 @@ A guide for customers transitioning to teaCapital from another tea supplier, cov
 | --- | --- | --- |
 | 1. Map your current teas | Match your existing favorites to teaCapital styles | A shortlist of comparable teas to try first |
 | 2. Translate your brewing routine | Convert your current recipe to teaCapital baselines | A starting recipe that feels familiar |
-| 3. Place your first order | Choose two to three teas from the shortlist | A focused tasting session without overwhelm |
-| 4. Compare and adjust | Brew your old and new teas side by side | Clear notes on what to change for the next cup |
-| 5. Transition fully | Move remaining orders to teaCapital | A single supplier with consistent lot tracking |
+
 
 ## Map your current teas
 
