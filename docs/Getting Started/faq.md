@@ -48,28 +48,6 @@ Matcha is made from shade-grown tea leaves that are stone-ground into a fine pow
 **What does "first flush" mean?**
 First flush refers to the earliest harvest of the year, typically in late April or May. These leaves have accumulated amino acids over the winter dormancy period, producing a sweeter, more complex cup compared to later harvests. teaCapital labels first-flush lots so you can identify them in the [tea collection](/docs/tea-collection).
 
-## Brewing and preparation
-
-**What water temperature should I use?**
-For steamed green teas, cool your boiled water to 70–80°C before pouring. Roasted teas tolerate higher temperatures at 85–90°C. Powdered tea works best at 80°C. See the [brewing guide](/docs/brewing-guide) for complete recipes and ratios.
-
-**Can I re-steep the same leaves?**
-Yes. Most Japanese leaf teas support two to three infusions. Pour out all liquid after each steep to prevent over-extraction, then increase the water temperature by about 5°C and shorten the steep time slightly for each subsequent infusion.
-
-**Why does my matcha taste bitter?**
-The most common causes are water that is too hot, too much powder, or powder that was not sifted before whisking. Lower the water temperature to 80°C, reduce the powder to 2 g, and sift it through a fine mesh strainer. See [troubleshooting](/docs/troubleshooting) for more solutions.
-
-## Storage and freshness
-
-**How should I store opened tea?**
-Transfer tea to an opaque, airtight container and keep it in a cool, dark place away from spices, coffee, and direct sunlight. Avoid the refrigerator unless the container is completely sealed, as condensation introduces moisture that accelerates staleness.
-
-**How long does tea stay fresh after opening?**
-Aim to finish opened tea within one to three months for the best flavor. Unopened, sealed pouches retain peak quality for up to twelve months from the production date. If your tea tastes flat or stale, consult the [troubleshooting](/docs/troubleshooting) page for recovery tips.
-
-**Can I freeze tea to extend its shelf life?**
-Freezing can preserve freshness for several months, but it requires a truly airtight, moisture-proof container. When you are ready to use the tea, let the sealed container reach room temperature before opening it — this prevents condensation from forming on the cold leaves.
-
 ## Next steps
 
 - Visit the [tea collection](/docs/tea-collection) to browse available styles.
