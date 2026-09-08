@@ -58,11 +58,8 @@ If your teaCapital experience isn't going as expected, use the table below to id
 
 | Issue | Possible cause | Recommended action |
 | --- | --- | --- |
-| Tea arrives with a broken seal | Package was damaged during shipping | Contact support within 48 hours for a replacement. Keep the original packaging for reference. |
 | Flavor doesn't match the description | Brewing parameters may be off | Review the [brewing guide](/docs/brewing-guide) and adjust water temperature or steep time. Taste notes are subjective, so try a second cup before deciding. |
-| Leaves look discolored or stale | Improper storage after opening | Transfer leaves to an airtight, opaque container and store away from heat, light, and moisture. |
 | Powdered tea won't dissolve | Powder has clumped from humidity | Sift the powder through a fine mesh strainer before whisking. Use water at 80°C for best results. |
-| Order confirmation not received | Email address mistyped or filtered | Check your spam or promotions folder. If the email is missing after 30 minutes, reach out to support with your order details. |
 
 If your issue isn't listed here, visit the [brewing guide](/docs/brewing-guide) for recipe-specific troubleshooting.
 
