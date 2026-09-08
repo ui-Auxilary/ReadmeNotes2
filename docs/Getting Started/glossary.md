@@ -23,9 +23,7 @@ Definitions of key terms used across teaCapital's documentation, from tea styles
 | Matcha | Tea style | Stone-ground powder made from shade-grown tea leaves |
 | Hojicha | Tea style | Roasted Japanese green tea with a toasty, low-caffeine profile |
 | Chasen | Equipment | A bamboo whisk used to prepare matcha |
-| First flush | Harvest | The earliest spring harvest, prized for sweetness and complexity |
-| Umami | Flavor | A savory, brothy taste found in high-quality Japanese green teas |
-| Lot | Sourcing | A defined batch of tea handled and tracked together |
+
 
 ## Tea styles
 
