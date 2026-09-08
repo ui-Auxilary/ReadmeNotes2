@@ -22,8 +22,6 @@ Diagnose and resolve common issues with teaCapital Japanese teas, from off-tasti
 | Flavor | Bitter, astringent, or flat brew | Adjust water temperature, steep time, or leaf amount |
 | Appearance | Cloudy liquor or discolored leaves | Use filtered water and check leaf freshness |
 | Storage | Stale aroma or loss of vibrancy | Transfer to an airtight, opaque container |
-| Equipment | Residue buildup or off odors | Clean with hot water and unscented detergent |
-| Water | Chalky taste or muted flavors | Switch to soft or filtered water (50–80 ppm) |
 
 ## Flavor issues
 
