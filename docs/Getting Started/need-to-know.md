@@ -23,8 +23,7 @@ Essential facts and practical advice every teaCapital customer should understand
 | Water | Use soft or filtered water between 50–80 ppm for the cleanest flavor | [Brewing guide](/docs/brewing-guide) |
 | Temperature | Most Japanese green teas brew best at 70–80°C, not boiling | [Brewing guide](/docs/brewing-guide) |
 | Storage | Keep tea in an opaque, airtight container away from heat and odors | [Troubleshooting](/docs/troubleshooting) |
-| Caffeine | Japanese green tea contains roughly 20–30 mg of caffeine per cup | [About teaCapital](/docs/about-teacapital) |
-| Multiple steeps | Most leaf teas support two to three infusions from the same leaves | [Brewing guide](/docs/brewing-guide) |
+
 
 ## Freshness and seasonality
 
