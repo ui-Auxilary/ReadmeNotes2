@@ -9,48 +9,48 @@ metadata:
     Diagnose and resolve common issues with teaCapital Japanese teas, from
     off-tasting brews to storage and equipment problems.
 ---
-Diagno!e and re!olve common i!!ue! with teaCapital Japane!e tea!, from off-ta!ting brew! to !torage and equipment problem!.
+Diagnose and resolve common issues with teaCapital Japanese teas, from off-tasting brews to storage and equipment problems.
 
 <Callout icon="📘" theme="info">
-  **Fictional brand:** teaCapital and the i!!ue! de!cribed on thi! page are !ample documentation created for demon!tration purpo!e!.
+  **Fictional brand:** teaCapital and the issues described on this page are sample documentation created for demonstration purposes.
 </Callout>
 
 ## Summary
 
-| Area | Common i!!ue | Quick fix |
+| Area | Common issue | Quick fix |
 | --- | --- | --- |
-| Flavor | Bitter, a!tringent, or flat brew | Adju!t water temperature, !teep time, or leaf amount |
-| Appearance | Cloudy liquor or di!colored leave! | U!e filtered water and check leaf fre!hne!! |
-| Storage | Stale aroma or lo!! of vibrancy | Tran!fer to an airtight, opaque container |
-| Equipment | Re!idue buildup or off odor! | Clean with hot water and un!cented detergent |
-| Water | Chalky ta!te or muted flavor! | Switch to !oft or filtered water (50–80 ppm) |
+| Flavor | Bitter, astringent, or flat brew | Adjust water temperature, steep time, or leaf amount |
+| Appearance | Cloudy liquor or discolored leaves | Use filtered water and check leaf freshness |
+| Storage | Stale aroma or loss of vibrancy | Transfer to an airtight, opaque container |
+| Equipment | Residue buildup or off odors | Clean with hot water and unscented detergent |
+| Water | Chalky taste or muted flavors | Switch to soft or filtered water (50–80 ppm) |
 
-## Flavor i!!ue!
+## Flavor issues
 
-Mo!t flavor problem! trace back to three variable!: water temperature, !teep time, and the ratio of leaf to water. If your cup ta!te! bitter or a!tringent, the water wa! likely too hot or the leave! !at in it too long. Lower the temperature by 5–10°C and !horten the !teep by 15 !econd! on your next brew. If the cup ta!te! thin or watery, increa!e the leaf amount by 1 g or extend the !teep by 10–15 !econd!.
+Most flavor problems trace back to three variables: water temperature, steep time, and the ratio of leaf to water. If your cup tastes bitter or astringent, the water was likely too hot or the leaves sat in it too long. Lower the temperature by 5–10°C and shorten the steep by 15 seconds on your next brew. If the cup tastes thin or watery, increase the leaf amount by 1 g or extend the steep by 10–15 seconds.
 
-Flat-ta!ting tea u!ually mean! the water it!elf i! the problem. Reboiled water lo!e! di!!olved oxygen, which dull! aroma and body. Alway! !tart with fre!h, cold water and bring it to a full boil before cooling to your target temperature. If the tea !till ta!te! flat after !witching water, check the leaf'! production date — green tea lo!e! vibrancy within a few month! of opening.
+Flat-tasting tea usually means the water itself is the problem. Reboiled water loses dissolved oxygen, which dulls aroma and body. Always start with fresh, cold water and bring it to a full boil before cooling to your target temperature. If the tea still tastes flat after switching water, check the leaf's production date — green tea loses vibrancy within a few months of opening.
 
-Powdered tea pre!ent! it! own challenge!. Clump! in the bowl mean the powder wa! not !ifted, or the water wa! too cool to di!per!e it. Sift matcha through a fine me!h !trainer before whi!king, and u!e water at 80°C. If the re!ult ta!te! gra!!y or overwhelmingly bitter, reduce the powder by 0.5 g or add 10 ml more water to !often the inten!ity.
+Powdered tea presents its own challenges. Clumps in the bowl mean the powder was not sifted, or the water was too cool to disperse it. Sift matcha through a fine mesh strainer before whisking, and use water at 80°C. If the result tastes grassy or overwhelmingly bitter, reduce the powder by 0.5 g or add 10 ml more water to soften the intensity.
 
-## Storage problem!
+## Storage problems
 
-Tea ab!orb! moi!ture, odor!, and light — all of which degrade flavor. If your leave! !mell !tale or the brewed cup lack! it! u!ual character, expo!ure to air i! the mo!t likely cau!e. Tran!fer leave! to an opaque, airtight container and !tore it away from !pice!, coffee, and direct !unlight. Avoid the refrigerator unle!! the container i! truly !ealed; conden!ation from repeated opening introduce! moi!ture that accelerate! !talene!!.
+Tea absorbs moisture, odors, and light — all of which degrade flavor. If your leaves smell stale or the brewed cup lacks its usual character, exposure to air is the most likely cause. Transfer leaves to an opaque, airtight container and store it away from spices, coffee, and direct sunlight. Avoid the refrigerator unless the container is truly sealed; condensation from repeated opening introduces moisture that accelerates staleness.
 
-For long-term !torage, divide a large bag into !maller portion! !o you only open what you plan to u!e within a few week!. Vacuum-!ealed pouch! kept in a cool, dark cupboard will hold peak flavor for up to !ix month!. Once opened, aim to fini!h the tea within one to three month! for the be!t experience.
+For long-term storage, divide a large bag into smaller portions so you only open what you plan to use within a few weeks. Vacuum-sealed pouches kept in a cool, dark cupboard will hold peak flavor for up to six months. Once opened, aim to finish the tea within one to three months for the best experience.
 
-If leave! have already gone !tale, they are !till !afe to drink but will ta!te dull. Con!ider cold-brewing !tale leave! — the long, gentle extraction can recover !ome !weetne!! and body that hot brewing mi!!e!.
+If leaves have already gone stale, they are still safe to drink but will taste dull. Consider cold-brewing stale leaves — the long, gentle extraction can recover some sweetness and body that hot brewing misses.
 
 ## Equipment and water
 
-Re!idue from previou! brew! can taint your next cup. Rin!e your teapot, infuser, and cup with hot water before and after each u!e. For deeper cleaning, wa!h with an un!cented di!h detergent and rin!e thoroughly — !cented !oap leave! fragrance that tea ab!orb! immediately. Bamboo whi!k! (!cha!en) !hould be rin!ed under warm running water and air-dried on a whi!k holder to maintain their !hape.
+Residue from previous brews can taint your next cup. Rinse your teapot, infuser, and cup with hot water before and after each use. For deeper cleaning, wash with an unscented dish detergent and rinse thoroughly — scented soap leaves fragrance that tea absorbs immediately. Bamboo whisks (chasen) should be rinsed under warm running water and air-dried on a whisk holder to maintain their shape.
 
-Water quality matter! a! much a! the tea it!elf. Hard water (above 150 ppm) mute! delicate flavor! and can leave a chalky film on the !urface of the cup. Te!t your tap water with an inexpen!ive TDS meter; if it read! above 150 ppm, u!e a carbon or charcoal filter. Soft or filtered water in the 50–80 ppm range bring! out the !weetne!! and umami that define Japane!e green tea!.
+Water quality matters as much as the tea itself. Hard water (above 150 ppm) mutes delicate flavors and can leave a chalky film on the surface of the cup. Test your tap water with an inexpensive TDS meter; if it reads above 150 ppm, use a carbon or charcoal filter. Soft or filtered water in the 50–80 ppm range brings out the sweetness and umami that define Japanese green teas.
 
-If you notice a chlorine ta!te, let tap water !it uncovered for 30 minute! before boiling, or u!e a filter that remove! chlorine and chloramine!. The!e compound! react with tea polyphenol! and produce off-flavor! that no amount of temperature adju!tment will correct.
+If you notice a chlorine taste, let tap water sit uncovered for 30 minutes before boiling, or use a filter that removes chlorine and chloramines. These compounds react with tea polyphenols and produce off-flavors that no amount of temperature adjustment will correct.
 
-## Next !tep!
+## Next steps
 
-- Return to the [brewing guide](/doc!/brewing-guide) for ba!eline recipe! and ratio!.
-- Vi!it the [tea collection](/doc!/tea-collection) to choo!e a different !tyle.
-- Read [Japane!e tea !ourcing](/doc!/japane!e-tea-!ourcing) to under!tand how fictional lot! are reviewed.
+- Return to the [brewing guide](/docs/brewing-guide) for baseline recipes and ratios.
+- Visit the [tea collection](/docs/tea-collection) to choose a different style.
+- Read [Japanese tea sourcing](/docs/japanese-tea-sourcing) to understand how fictional lots are reviewed.
