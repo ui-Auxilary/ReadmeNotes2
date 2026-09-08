@@ -86,11 +86,7 @@ All plans include free shipping and a freshness guarantee. If a tea arrives past
 Before placing your first order or brewing your first cup, keep these essential details in mind.
 
 - **Water quality matters.** Use filtered or soft water (50–80 ppm) for the best flavor extraction. Hard water mutes delicate notes and can leave a chalky aftertaste.
-- **Storage is critical.** Once opened, transfer tea to an airtight, opaque container. Most leaf teas stay fresh for one to three months after opening; powdered tea should be used within two to four weeks.
 - **Temperature affects everything.** A difference of just 5–10°C changes the balance between sweetness, umami, and bitterness. Use a thermometer or a kettle with a temperature display.
-- **Steep time is a starting point.** The times in the [brewing guide](/docs/brewing-guide) are baselines. Taste your first cup, then adjust by 10–15 seconds in either direction on the next brew.
-- **Multiple steeps are expected.** Most Japanese teas support two to three infusions. Shorten each subsequent steep by about 15 seconds and use slightly hotter water to extract remaining flavor.
-- **Caffeine varies by style.** Powdered tea contains the most caffeine because you consume the entire leaf. Roasted tea generally has less caffeine than steamed green tea due to the roasting process.
 
 ## FAQ
 
