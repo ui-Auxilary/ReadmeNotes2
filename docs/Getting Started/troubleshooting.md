@@ -39,14 +39,6 @@ For long-term storage, divide a large bag into smaller portions so you only open
 
 If leaves have already gone stale, they are still safe to drink but will taste dull. Consider cold-brewing stale leaves — the long, gentle extraction can recover some sweetness and body that hot brewing misses.
 
-## Equipment and water
-
-Residue from previous brews can taint your next cup. Rinse your teapot, infuser, and cup with hot water before and after each use. For deeper cleaning, wash with an unscented dish detergent and rinse thoroughly — scented soap leaves fragrance that tea absorbs immediately. Bamboo whisks (chasen) should be rinsed under warm running water and air-dried on a whisk holder to maintain their shape.
-
-Water quality matters as much as the tea itself. Hard water (above 150 ppm) mutes delicate flavors and can leave a chalky film on the surface of the cup. Test your tap water with an inexpensive TDS meter; if it reads above 150 ppm, use a carbon or charcoal filter. Soft or filtered water in the 50–80 ppm range brings out the sweetness and umami that define Japanese green teas.
-
-If you notice a chlorine taste, let tap water sit uncovered for 30 minutes before boiling, or use a filter that removes chlorine and chloramines. These compounds react with tea polyphenols and produce off-flavors that no amount of temperature adjustment will correct.
-
 ## Next steps
 
 - Return to the [brewing guide](/docs/brewing-guide) for baseline recipes and ratios.
