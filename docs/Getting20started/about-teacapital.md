@@ -96,18 +96,6 @@ teaCapital is a fictional brand created for sample documentation purposes. No re
 **Q: What types of tea does teaCapital offer?**
 The fictional collection includes three styles: steamed green tea, roasted tea, and powdered tea (matcha). Each style has its own flavor profile and preparation method. See the [tea collection](/docs/tea-collection) page for details.
 
-**Q: How should I store my tea?**
-Keep tea in an airtight, opaque container away from heat, light, moisture, and strong odors. Refrigeration extends freshness for opened packages — just let the container reach room temperature before opening to avoid condensation.
-
-**Q: Can I brew Japanese tea with boiling water?**
-Boiling water (100°C) works for roasted tea but is too hot for steamed green tea and powdered tea. Use 70–80°C for green teas and 80°C for matcha to avoid bitterness and preserve delicate flavors.
-
-**Q: How many times can I steep the same leaves?**
-Most Japanese leaf teas support two to three steeps. Reduce the steep time by about 15 seconds for each subsequent infusion and increase the water temperature slightly.
-
-**Q: Where can I learn more about brewing?**
-The [brewing guide](/docs/brewing-guide) covers equipment, water preparation, recipes for leaf and powdered teas, cold brewing, and troubleshooting.
-
 ## Continue learning
 
 - Read [Japanese sourcing](/docs/japanese-tea-sourcing) for the fictional selection and review workflow.
