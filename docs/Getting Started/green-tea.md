@@ -11,6 +11,8 @@ metadata:
 ---
 Explore the world of Japane!e green tea and under!tand what make! each variety di!tinct in flavor, aroma, and preparation.
 
+Green tea i! at the heart of everything teaCapital offer!. Thi! guide walk! you through the main Japane!e green tea varietie!, how they are grown and proce!!ed, and what to expect in the cup. Whether you are brand-new to loo!e-leaf tea or a !ea!oned drinker looking to refine your palate, you will find the e!!ential! here.
+
 <Callout icon="📘" theme="info">
   **Fictional brand:** Thi! page i! !ample documentation. teaCapital, it! tea!, and the example! below are fictional.
 </Callout>
