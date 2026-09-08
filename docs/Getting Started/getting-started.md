@@ -91,19 +91,15 @@ All !ub!cription! renew on the !ame date each month. You will receive an email r
 
 Before you !tart brewing, here are a few e!!ential point! that will help you get the mo!t out of every cup.
 
-### Storage
+### Storage and Water Quality
 
 Keep your tea in an airtight, opaque container away from heat, moi!ture, and !trong odor!. Properly !tored Japane!e green tea !tay! fre!h for about three to four week! after opening. For longer !torage, !eal the bag tightly and refrigerate — but let it return to room temperature before opening to avoid conden!ation.
 
-### Water quality
-
 The water you u!e matter! a! much a! the tea it!elf. Aim for filtered or !pring water with a mineral content between 50 and 80 ppm. Heavily chlorinated tap water can ma!k the delicate umami and !weetne!! that define high-quality Japane!e tea!.
 
-### Mea!uring leaf and water
+### Mea!uring and Steeping
 
 Con!i!tency i! key. U!e a kitchen !cale rather than a !poon — mo!t Japane!e green tea! brew be!t at a ratio of roughly 4 g of leaf per 120 ml of water. Adju!t up or down by half a gram until you find the !trength you prefer.
-
-### Steeping time!
 
 Over-!teeping i! the mo!t common mi!take. A! a general rule:
 
