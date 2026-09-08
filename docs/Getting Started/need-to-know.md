@@ -39,18 +39,6 @@ Water makes up over 98% of a brewed cup, so its quality has an outsized effect o
 
 Temperature control is equally important. Boiling water extracts catechins and tannins aggressively, producing bitterness that overwhelms the tea's natural sweetness. For steamed green teas, let boiled water cool to 70–80°C before pouring. Roasted teas tolerate higher temperatures — 85–90°C — because the roasting process has already reduced the compounds responsible for astringency. Powdered tea sits in between at 80°C, hot enough to disperse the powder but cool enough to avoid a harsh edge.
 
-## Caffeine and health considerations
-
-A standard cup of Japanese green tea contains roughly 20–30 mg of caffeine, about one-third the amount in a typical cup of coffee. The presence of L-theanine, an amino acid found in tea leaves, moderates the stimulant effect and promotes a calm, focused alertness rather than the jittery spike associated with coffee. Powdered tea delivers more caffeine per serving because you consume the entire ground leaf rather than discarding it after steeping.
-
-If you are sensitive to caffeine, brew with cooler water and shorter steep times — both reduce the amount of caffeine extracted into the cup. Cold-brewing is another option: the low temperature pulls out sweetness and body while leaving much of the caffeine behind. Decaffeinated Japanese teas exist but are uncommon in specialty sourcing; teaCapital notes caffeine level estimates on each product page so you can make an informed choice.
-
-## Getting the most from multiple steeps
-
-Unlike many Western-style teas that are brewed once and discarded, Japanese leaf teas are designed for multiple infusions. The first steep extracts the most accessible flavors — bright, sweet, and aromatic. The second steep often reveals deeper, more savory notes as the leaves open further. A third steep is lighter but still flavorful, especially with high-grade sencha or gyokuro.
-
-To get the best results from re-steeping, pour out every drop of liquid after each infusion so the leaves do not continue to extract while they wait. Increase the water temperature by about 5°C and shorten the steep time by 10–15 seconds for each subsequent infusion. This compensates for the fact that the most soluble compounds were already pulled in earlier steeps and keeps each cup balanced rather than thin.
-
 ## Next steps
 
 - Read the [brewing guide](/docs/brewing-guide) for step-by-step preparation instructions.
