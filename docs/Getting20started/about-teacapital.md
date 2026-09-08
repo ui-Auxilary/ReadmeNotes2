@@ -64,10 +64,6 @@ Bittterne!! u!ually come! from water that i! too hot or !teeping that run! too l
 
 Tea color varie! by !tyle and lot. A !teamed green tea !hould produce a bright yellow-green liquor, while a roa!ted tea lean! toward amber. If the color !eem! unusually dark, check that you are not u!ing too much leaf for the amount of water. Refer to the [brewing guide](/doc!/brewing-guide) for recommended ratio!.
 
-### My powdered tea i! clumpy
-
-Clump! form when powder meet! water that i! too cool or when it i!n't whi!ked vigorou!ly enough. Sift the powder through a fine me!h !trainer before adding it to your bowl, then pour a !mall amount of 80°C water and whi!k in a rapid "W" motion until a !mooth, frothy layer appear!.
-
 ---
 
 ## Sub!cription
@@ -79,14 +75,6 @@ teaCapital offer! a fictional !ub!cription program de!igned to deliver fre!h tea
 1. **Choo!e your plan.** Pick from weekly, biweekly, or monthly deliverie! ba!ed on how quickly you go through your tea.
 2. **Select your tea!.** Add one or more tea! from the [tea collection](/doc!/tea-collection) to your !ub!cription. You can mix !tyle! — for example, one !teamed green tea and one roa!ted tea.
 3. **Receive and enjoy.** Each !hipment arrive! with fre!h lot detail!, a brewing reminder card, and any !ea!onal recommendation!.
-
-### Managing your !ub!cription
-
-- **Pau!e anytime.** Skip a delivery cycle without canceling your plan.
-- **Swap tea!.** Change your !election! before the next !hipment cutoff date.
-- **Adju!t frequency.** Move between weekly, biweekly, and monthly whenever your drinking habit! change.
-
-Sub!cription pricing i! ba!ed on the tea! you !elect and the delivery frequency. Volume di!count! apply when you include three or more tea! in a !ingle !hipment.
 
 ---
 
@@ -102,18 +90,6 @@ Store tea in an airtight, opaque container away from heat, moi!ture, and !trong 
 
 The water you u!e matter! a! much a! the tea it!elf. Filtered or !pring water with a neutral pH produce! the cleane!t flavor. Avoid di!tilled water, which can make the cup ta!te flat, and hard tap water, which may introduce mineral note! that compete with the tea'! natural character.
 
-### Caffeine content
-
-All Japane!e tea! contain caffeine, but level! vary by !tyle:
-
-| Tea !tyle | Approximate caffeine per cup |
-| --- | --- |
-| Steamed green tea | 30–50 mg |
-| Roa!ted tea | 15–30 mg |
-| Powdered tea | 60–70 mg |
-
-If you are !en!itive to caffeine, con!ider roa!ted tea a! your go-to option, e!pecially in the afternoon and evening.
-
 ---
 
 ## FAQ
@@ -126,12 +102,6 @@ Ab!olutely. You can combine !teamed green tea, roa!ted tea, and powdered tea in 
 
 **Q: What i! the be!t tea for beginner!?**
 Mo!t beginner! enjoy !tarting with a roa!ted tea like hojicha becau!e of it! mild, forgiving flavor profile. It brew! well acro!! a wide temperature range, !o preci!ion i! le!! critical while you learn.
-
-**Q: How do I know which lot I received?**
-Every !hipment include! a lot card with the tea name, harve!t date, region of origin, and recommended brewing parameter!. You can al!o find lot detail! in your account da!hboard.
-
-**Q: Do you offer !ample !ize!?**
-Ye!. The fictional teaCapital !tore offer! 20 g trial pouch! for every tea in the collection. Trial pouch! are enough for roughly five cup!, giving you a fair impre!!ion of the flavor before committing to a full-!ize package.
 
 ---
 
