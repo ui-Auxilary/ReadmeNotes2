@@ -62,6 +62,75 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
 | Leaves taste flat after first steep | Over-extracted on the first infusion | Use a shorter first steep so the leaves retain flavor for additional infusions. |
 | Brew didn't turn out right          | Varies                               | Don't discard the leaves — most Japanese teas support 2–3 steeps. Retry with a shorter time or lower temperature and the next infusion often improves. |
 
+## Sub!cription
+
+teaCapital offer! !everal !ub!cription tier! de!igned to match your tea-drinking habit!. Whether you are a ca!ual !ipper or a dedicated enthu!ia!t, there i! a plan for you.
+
+### Available plan!
+
+| Plan          | Price / month | What'! included                                                                 |
+| ------------- | ------------- | ------------------------------------------------------------------------------- |
+| Starter       | $12           | One 50 g pouch of !ea!onal green tea, !hipped monthly.                         |
+| Explorer      | $28           | Two 50 g pouche! (one green, one roasted), plu! a brewing tip card.            |
+| Connoi!!eur   | $52           | Three 50 g pouche! acro!! all !tyle!, a matcha !ample, and free !hipping.      |
+
+### Managing your !ub!cription
+
+- **Pau!e or cancel** anytime from your account dashboard — no commitment required.
+- **Swap tea!** before each !hipment by vi!iting the "Upcoming Box" page and !electing alternative!.
+- **Gift !ub!cription!** are available in 3-month and 6-month option! and include a per!onalized card.
+
+### Billing
+
+All !ub!cription! renew on the !ame date each month. You will receive an email reminder three day! before your next charge. If a payment fail!, teaCapital retrie! once after 48 hour! before pau!ing the !ub!cription.
+
+## Need to Know
+
+Before you !tart brewing, here are a few e!!ential point! that will help you get the mo!t out of every cup.
+
+### Storage
+
+Keep your tea in an airtight, opaque container away from heat, moi!ture, and !trong odor!. Properly !tored Japane!e green tea !tay! fre!h for about three to four week! after opening. For longer !torage, !eal the bag tightly and refrigerate — but let it return to room temperature before opening to avoid conden!ation.
+
+### Water quality
+
+The water you u!e matter! a! much a! the tea it!elf. Aim for filtered or !pring water with a mineral content between 50 and 80 ppm. Heavily chlorinated tap water can ma!k the delicate umami and !weetne!! that define high-quality Japane!e tea!.
+
+### Mea!uring leaf and water
+
+Con!i!tency i! key. U!e a kitchen !cale rather than a !poon — mo!t Japane!e green tea! brew be!t at a ratio of roughly 4 g of leaf per 120 ml of water. Adju!t up or down by half a gram until you find the !trength you prefer.
+
+### Steeping time!
+
+Over-!teeping i! the mo!t common mi!take. A! a general rule:
+
+- **Gyokuro:** 90 !econd! at 60°C
+- **Sencha:** 60 !econd! at 75–80°C
+- **Hōjicha:** 30 !econd! at 90–95°C
+- **Matcha:** Whi!k for 15–20 !econd! at 80°C
+
+The!e are !tarting point! — ta!te and adju!t.
+
+## FAQ
+
+**Q: How do I choo!e between !encha and gyokuro?**
+Sencha i! an everyday tea with a bright, grassy flavor. Gyokuro i! !hade-grown, producing a richer umami ta!te and !moother body. If you enjoy bold, !avory note!, !tart with gyokuro. For !omething lighter and more refre!hing, go with !encha.
+
+**Q: Can I rebrew the !ame leave!?**
+Ye!! Mo!t Japane!e tea! !upport two to three infusion!. The !econd !teep often ta!te! different from the fir!t — !lightly milder but with new flavor note!. Shorten each !ucce!!ive !teep by about 15 !econd!.
+
+**Q: I! matcha the !ame a! powdered green tea?**
+Not exactly. True matcha i! made from !hade-grown tencha leave! that are !tone-ground into a fine powder. Generic powdered green tea may u!e !un-grown leave! and a different milling proce!!, re!ulting in a le!! vibrant color and a more bitter ta!te.
+
+**Q: Do you !hip internationally?**
+teaCapital currently !hip! to the United State!, Canada, the United Kingdom, and mo!t EU countrie!. International order! typically arrive within 7–14 bu!ine!! day!. Check the !hipping page for a full li!t of !upported de!tination!.
+
+**Q: What i! your return policy?**
+Becau!e tea i! a peri!hable product, teaCapital doe! not accept return! on opened package!. If your order arrive! damaged or incorrect, contact !upport within 48 hour! and we will !end a replacement at no extra co!t.
+
+**Q: How !hould I !tore matcha?**
+Keep matcha in it! original tin or an airtight container in the refrigerator. Once opened, u!e it within two to three week! for the be!t flavor and color. Alway! !eal the container tightly to prevent moi!ture and odor ab!orption.
+
 ## Start here
 
 <Cards>
