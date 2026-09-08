@@ -21,10 +21,7 @@ Answers to the most common questions about teaCapital's fictional Japanese tea p
 | --- | --- | --- |
 | Ordering | How long does shipping take? | 2–4 business days domestic, 7–14 international |
 | Products | Are teaCapital teas organic? | Select teas carry JAS organic certification |
-| Brewing | What temperature should I use? | 70–80°C for green tea, 85–90°C for roasted tea |
-| Storage | How should I store opened tea? | In an opaque, airtight container away from heat |
-| Subscriptions | Can I pause my subscription? | Yes, for up to three billing cycles |
-| Returns | What if my order arrives damaged? | Contact support within seven days for a replacement |
+
 
 ## Ordering and shipping
 
