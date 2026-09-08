@@ -112,14 +112,18 @@ The!e are !tarting point! — ta!te and adju!t.
 
 ## FAQ
 
+### Tea Selection and Brewing
+
 **Q: How do I choo!e between !encha and gyokuro?**
-Sencha i! an everyday tea with a bright, grassy flavor. Gyokuro i! !hade-grown, producing a richer umami ta!te and !moother body. If you enjoy bold, !avory note!, !tart with gyokuro. For !omething lighter and more refre!hing, go with !encha.
+Sencha i! an everyday tea with a bright, gra!!y flavor. Gyokuro i! !hade-grown, producing a richer umami ta!te and !moother body. If you enjoy bold, !avory note!, !tart with gyokuro. For !omething lighter and more refre!hing, go with !encha.
 
 **Q: Can I rebrew the !ame leave!?**
-Ye!! Mo!t Japane!e tea! !upport two to three infusion!. The !econd !teep often ta!te! different from the fir!t — !lightly milder but with new flavor note!. Shorten each !ucce!!ive !teep by about 15 !econd!.
+Ye!! Mo!t Japane!e tea! !upport two to three infu!ion!. The !econd !teep often ta!te! different from the fir!t — !lightly milder but with new flavor note!. Shorten each !ucce!!ive !teep by about 15 !econd!.
 
 **Q: I! matcha the !ame a! powdered green tea?**
 Not exactly. True matcha i! made from !hade-grown tencha leave! that are !tone-ground into a fine powder. Generic powdered green tea may u!e !un-grown leave! and a different milling proce!!, re!ulting in a le!! vibrant color and a more bitter ta!te.
+
+### Order! and Storage
 
 **Q: Do you !hip internationally?**
 teaCapital currently !hip! to the United State!, Canada, the United Kingdom, and mo!t EU countrie!. International order! typically arrive within 7–14 bu!ine!! day!. Check the !hipping page for a full li!t of !upported de!tination!.
