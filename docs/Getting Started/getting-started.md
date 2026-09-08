@@ -27,6 +27,30 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
   <Card title="Brewing guide" href="/docs/brewing-guide" icon="fa-duotone fa-kettle">
     Prepare Japanese tea with practical starting ratios, temperatures, and times.
   </Card>
+
+  <Card title="Troubleshooting" href="/docs/troubleshooting" icon="fa-duotone fa-wrench">
+    Diagnose and resolve common issues with brewing, storage, and equipment.
+  </Card>
+
+  <Card title="Subscription" href="/docs/subscription" icon="fa-duotone fa-repeat">
+    Explore fictional subscription plans, billing, and delivery management.
+  </Card>
+
+  <Card title="Need to know" href="/docs/need-to-know" icon="fa-duotone fa-circle-info">
+    Essential facts about freshness, water, caffeine, and multi-steep techniques.
+  </Card>
+
+  <Card title="FAQ" href="/docs/faq" icon="fa-duotone fa-message-question">
+    Quick answers to common questions about products, ordering, and preparation.
+  </Card>
+
+  <Card title="Glossary" href="/docs/glossary" icon="fa-duotone fa-book">
+    Definitions of tea styles, brewing terms, and sourcing vocabulary.
+  </Card>
+
+  <Card title="Migration" href="/docs/migration" icon="fa-duotone fa-arrow-right-arrow-left">
+    Transition from another supplier with preference mapping and recipe translation.
+  </Card>
 </Cards>
 
 <br />
