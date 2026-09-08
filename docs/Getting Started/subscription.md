@@ -36,12 +36,6 @@ You can pause, skip, or cancel your subscription at any time from your fictional
 
 Plan changes take effect at the start of your next billing cycle. If you upgrade mid-cycle, the price difference is prorated and applied to your next invoice. Downgrades also take effect at the next cycle, and any unused credit rolls forward. teaCapital does not charge cancellation fees; once cancelled, your account retains your tasting history and preferences in case you decide to resubscribe later.
 
-## Shipping and delivery
-
-All subscription shipments are sent in insulated, light-blocking packaging to protect the tea during transit. Domestic orders within Japan typically arrive within two to four business days. International shipments are available to select regions and may take seven to fourteen business days depending on customs processing. Tracking information is emailed as soon as the shipment leaves the teaCapital warehouse.
-
-If a package arrives damaged or a tea does not match your order, contact the fictional teaCapital support team within seven days of delivery. Replacement shipments are sent at no additional cost, and the affected tea is flagged in the system so the quality team can review the lot. Seasonal teas and limited-edition releases are allocated on a first-come basis and may substitute a comparable style if the original selection sells out before your shipment date.
-
 ## Next steps
 
 - Browse the [tea collection](/docs/tea-collection) to see which styles are available.
