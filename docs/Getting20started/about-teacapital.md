@@ -69,10 +69,8 @@ teaCapital offers a fictional monthly subscription program designed to help you 
 
 ### How it works
 
-1. **Choose a plan.** Select from three tiers based on how much tea you drink each month.
-2. **Set your preferences.** Tell us whether you prefer steamed green tea, roasted tea, powdered tea, or a mix of all three.
-3. **Receive your shipment.** A curated selection arrives at your door every four weeks, packed fresh from the latest lots.
-4. **Adjust anytime.** Swap styles, pause, or cancel your subscription from your account page with no penalty.
+1. **Choose a plan.** Select from a tier based on how much tea you drink each month and set your style preferences.
+2. **Receive and adjust.** A curated selection arrives every four weeks. Swap styles, pause, or cancel anytime from your account page.
 
 ### Plans
 
