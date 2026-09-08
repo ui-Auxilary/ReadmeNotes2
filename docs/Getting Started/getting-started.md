@@ -43,6 +43,10 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
   <Card title="FAQ" href="/docs/faq" icon="fa-duotone fa-circle-question">
     Answers to the most common teaCapital questions.
   </Card>
+
+  <Card title="Green tea" href="/docs/green-tea" icon="fa-duotone fa-seedling">
+    Explore Japanese green tea varieties, flavors, and production.
+  </Card>
 </Cards>
 
 <br />
