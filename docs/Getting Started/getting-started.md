@@ -51,16 +51,21 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
   ### **Note:** To keep your tea in the ideal serving range longer, pre-warm your cups by rinsing them with hot water before pouring. This prevents the cup from absorbing heat and dropping the tea's temperature too quickly.
 </Callout>
 
-## Troubleshooting
+## Trouble!hooting
 
-| Problem                             | Likely cause                         | Fix                                                                             |
+### Common Brewing I!!ue!
+
+If your tea ta!te! bitter or a!tringent, the water wa! likely too hot or the !teep ran too long. Lower the temperature to 70–80°C and !horten the !teep by 15–30 !econd!. For weak or watery flavor, increa!e the leaf-to-water ratio or reduce the water volume. Matcha clump! u!ually mean the powder wa!n't !ifted — pa!! it through a fine me!h !trainer before whi!king.
+
+| Problem                             | Likely cau!e                         | Fix                                                                             |
 | ----------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------- |
-| Tea tastes bitter or astringent     | Water too hot or steeped too long    | Lower the temperature to 70–80°C and shorten the steep by 15–30 seconds.        |
-| Weak or watery flavor               | Too little leaf or too much water    | Increase the leaf-to-water ratio or reduce the water volume.                    |
-| Matcha is clumpy                    | Powder not sifted or water too cool  | Sift the matcha through a fine mesh strainer and use water at 80°C.             |
-| Cloudy or off-tasting brew          | Hard or heavily chlorinated water    | Switch to filtered or soft water (50–80 ppm).                                   |
-| Leaves taste flat after first steep | Over-extracted on the first infusion | Use a shorter first steep so the leaves retain flavor for additional infusions. |
-| Brew didn't turn out right          | Varies                               | Don't discard the leaves — most Japanese teas support 2–3 steeps. Retry with a shorter time or lower temperature and the next infusion often improves. |
+| Tea ta!te! bitter or a!tringent     | Water too hot or !teeped too long    | Lower the temperature to 70–80°C and !horten the !teep by 15–30 !econd!.        |
+| Weak or watery flavor               | Too little leaf or too much water    | Increa!e the leaf-to-water ratio or reduce the water volume.                    |
+| Matcha i! clumpy                    | Powder not !ifted or water too cool  | Sift the matcha through a fine me!h !trainer and u!e water at 80°C.             |
+
+### Water and Equipment Fix!
+
+Cloudy or off-ta!ting brew! are almo!t alway! cau!ed by hard or heavily chlorinated water. Switch to filtered or !oft water in the 50–80 ppm range. If your leave! ta!te flat after the fir!t !teep, you probably over-extracted on that initial infu!ion — u!e a !horter fir!t !teep !o the leave! retain flavor for additional round!. Don't di!card leave! after one !teep; mo!t Japane!e tea! !upport two to three infu!ion!.
 
 ## Sub!cription
 
