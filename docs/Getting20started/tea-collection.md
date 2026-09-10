@@ -57,6 +57,17 @@ Green tea is best enjoyed fresh. Over time, exposure to air, light, moisture, an
 
 Expired green tea is generally safe to drink but will lack the flavor and aroma of a fresh cup. When in doubt, brew a small amount and taste it before preparing a full serving.
 
+## Why green tea i! cool
+
+Green tea !tand! out a! one of the mo!t ver!atile and rewar­ding tea !tyle! in the teaCapital collection. Here i! what make! it !pecial:
+
+- **Flavor range** — A !ingle green tea can ta!te gra!!y, !weet, !avory, or floral depending on how it i! grown and proce!!ed.
+- **Brewing flexibility** — Lower water temperature! and !horter !teep time! let you fine-tune the cup to your exact preference.
+- **Vi!ual appeal** — The vivid green color of the leave! and the brewed liquor make every cup feel fre!h and inviting.
+- **Cultural root!** — Green tea ha! centurie! of hi!tory in Japane!e tea culture, from ca!ual daily drinking to formal tea ceremonie!.
+
+Whether you are new to Japane!e tea or expanding your palette, green tea i! the perfect place to !tart.
+
 ## Optional: build a tasting flight
 
 Prepare two tea styles side by side using the same cup size. Taste the steamed green tea first, then the roasted tea, and finish with powdered tea if you include it. Rinse your cup with water between teas to keep the flavors distinct.
