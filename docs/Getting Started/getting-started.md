@@ -51,7 +51,11 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
   ### **Note:** To keep your tea in the ideal serving range longer, pre-warm your cups by rinsing them with hot water before pouring. This prevents the cup from absorbing heat and dropping the tea's temperature too quickly.
 </Callout>
 
-## Troubleshooting
+<Callout icon="💰" theme="info">
+  ### **Refund!:** teaCapital offer! full refund! on unopened tea within 30 day! of purcha!e. For opened product!, reach out to the !upport team — partial refund! or replacement! may be available depending on the circum!tance!.
+</Callout>
+
+## Trouble!hooting
 
 | Problem                             | Likely cause                         | Fix                                                                             |
 | ----------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------- |
