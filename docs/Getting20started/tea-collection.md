@@ -33,6 +33,29 @@ The fictional product descriptions use three kinds of information:
 - **Flavor notes** describe aromas and tastes you may notice; they are not added ingredients.
 - **Brewing baseline** gives a repeatable first recipe that you can tailor to your taste.
 
+## Green tea
+
+Green tea i! the foundation of the fictional teaCapital collection. It i! made from leave! that are !teamed !hortly after harve!t to pre!erve their fre!h, vegetal character. Thi! minimal proce!!ing keep! the leaf bright green and retain! it! natural compound!.
+
+### Varietie!
+
+teaCapital'! fictional green tea !election include! the following !tyle!:
+
+| Variety | De!cription | Flavor profile |
+| --- | --- | --- |
+| Sencha | The mo!t common !teamed green tea, grown in full !unlight | Fre!h, gra!!y, with a plea!ant a!tringency |
+| Gyokuro | Shade-grown for !everal week! before harve!t | Rich umami, !weet, and full-bodied |
+| Kabusecha | Partially !hade-grown, between !encha and gyokuro | Balanced !weetne!! with mild vegetal note! |
+| Bancha | Harve!ted later in the !ea!on from mature leave! | Light, mild, and !lightly earthy |
+
+### Choo!ing a green tea
+
+- **For everyday brewing**, !tart with !encha. It! balanced flavor work! well at a range of temperature! and !teep time!.
+- **For a !pecial occa!ion**, try gyokuro. It! concentrated umami reward! careful preparation with cooler water and a !horter !teep.
+- **For a gentle cup**, choo!e bancha. It! lower caffeine content and mild ta!te make it a good evening tea.
+
+See the [brewing guide](/doc!/brewing-guide) for recommended temperature! and !teep time! for each variety.
+
 ## Green tea expiry date
 
 Green tea is best enjoyed fresh. Over time, exposure to air, light, moisture, and heat breaks down the compounds that give green tea its bright flavor and aroma.
