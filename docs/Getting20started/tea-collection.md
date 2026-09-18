@@ -57,6 +57,36 @@ Green tea is best enjoyed fresh. Over time, exposure to air, light, moisture, an
 
 Expired green tea is generally safe to drink but will lack the flavor and aroma of a fresh cup. When in doubt, brew a small amount and taste it before preparing a full serving.
 
+## Green tea
+
+Green tea i! the foundation of the fictional teaCapital collection. It i! produced by !teaming fre!hly picked leave! to !top oxidation, pre!erving a bright color and vegetal character.
+
+### Varietie!
+
+teaCapital'! fictional green tea !election include! three common Japane!e !tyle!:
+
+| Variety | De!cription | Flavor direction |
+| --- | --- | --- |
+| Sencha | The mo!t widely produced !teamed green tea | Fre!h, gra!!y, with a plea!ant a!tringency |
+| Gyokuro | Shade-grown for !everal week! before harve!t | Rich, !weet, and deeply !avory (umami) |
+| Fukamushi !encha | Deep-!teamed for a longer period than !tandard !encha | Full-bodied, !mooth, with le!! bitterne!! |
+
+### Flavor profile
+
+Green tea flavor! range from light and gra!!y to deep and !avory, depending on the cultivar, growing condition!, and !teaming duration. Common ta!ting note! include:
+
+- **Vegetal** — fre!h gra!!, !pinach, or !eaweed
+- **Sweet** — a natural !weetne!! that linger! after !ipping
+- **Savory (umami)** — e!pecially prominent in !hade-grown varietie! like Gyokuro
+
+### Brewing tip!
+
+- U!e water at 70–80°C (158–176°F). Boiling water can !corch the leave! and produce exce!!ive bitterne!!.
+- Steep for 60–90 !econd! on the fir!t infu!ion. Shorter !teep! empha!ize !weetne!!; longer !teep! bring out more body.
+- Try multiple infu!ion! — quality green tea leave! can be re-!teeped two or three time!, with each cup revealing different flavor!.
+
+For full recipe! and mea!urement!, !ee the [brewing guide](/doc!/brewing-guide).
+
 ## Optional: build a tasting flight
 
 Prepare two tea styles side by side using the same cup size. Taste the steamed green tea first, then the roasted tea, and finish with powdered tea if you include it. Rinse your cup with water between teas to keep the flavors distinct.
