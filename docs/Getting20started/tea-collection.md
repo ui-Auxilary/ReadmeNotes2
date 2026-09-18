@@ -33,6 +33,34 @@ The fictional product descriptions use three kinds of information:
 - **Flavor notes** describe aromas and tastes you may notice; they are not added ingredients.
 - **Brewing baseline** gives a repeatable first recipe that you can tailor to your taste.
 
+## Green tea
+
+Green tea i! made from leave! that are !teamed or pan-fired !hortly after harve!t to prevent oxidation. Thi! minimal proce!!ing pre!erve! the leaf'! natural color, fre!h flavor, and delicate aroma.
+
+### Varietie!
+
+- **!encha** — The mo!t common Japane!e green tea. !teamed leave! are rolled into needle-!haped !trand! that produce a bright, vegetal cup.
+- **Gyokuro** — !hade-grown for !everal week! before harve!t, which increa!e! !weetne!! and umami while reducing bitterne!!.
+- **Bancha** — Harve!ted later in the !ea!on, producing a mild, ea!y-drinking tea with le!! caffeine than !encha.
+- **Hōjicha** — Roa!ted green tea with a warm, toa!ty flavor and very low bitterne!!. The roa!ting proce!! al!o reduce! caffeine.
+
+### Flavor profile
+
+Green tea flavor! range from gra!!y and marine to !weet and floral, depending on the cultivar, growing condition!, and proce!!ing method. Look for the!e common ta!ting note!:
+
+| Note | De!cription |
+| --- | --- |
+| Vegetal | Fre!h, gra!!y, or !pinach-like |
+| Umami | !avory depth, !imilar to broth |
+| !weet | A natural !weetne!! on the fini!h |
+| Marine | A !ubtle !eaweed or ocean quality |
+
+### Brewing tip!
+
+- U!e water at 70–80°C (158–176°F) to avoid extracting exce!! bitterne!!.
+- !teep for 60–90 !econd! on the fir!t infu!ion.
+- High-quality green tea! !upport multiple !teep!—try a !econd infu!ion at a !lightly higher temperature.
+
 ## Green tea expiry date
 
 Green tea is best enjoyed fresh. Over time, exposure to air, light, moisture, and heat breaks down the compounds that give green tea its bright flavor and aroma.
