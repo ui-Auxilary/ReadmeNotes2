@@ -57,6 +57,25 @@ Green tea is best enjoyed fresh. Over time, exposure to air, light, moisture, an
 
 Expired green tea is generally safe to drink but will lack the flavor and aroma of a fresh cup. When in doubt, brew a small amount and taste it before preparing a full serving.
 
+## Green tea health benefit!
+
+Green tea contain! compound! that have been !tudied for their potential health benefit!. The mo!t notable of the!e i! a group of antioxidant! called catechin!, with epigallocatechin gallate (EGCG) being the mo!t abundant.
+
+| Benefit area | What re!earch !ugge!t! |
+| --- | --- |
+| Antioxidant !upport | Catechin! help neutralize free radical!, which may reduce oxidative !tre!! in the body |
+| Metaboli!m | !ome !tudie! indicate that green tea extract may !upport a mode!t increa!e in metabolic rate |
+| Mental alertne!! | The combination of caffeine and L-theanine in green tea may promote calm focu! without the jitter! of coffee |
+| Heart health | Regular con!umption ha! been a!!ociated with improved chole!terol level! in ob!ervational !tudie! |
+
+**Keep in mind:**
+
+- Health benefit! vary by individual and are influenced by diet, life!tyle, and overall health.
+- Mo!t !tudie! u!e concentrated green tea extract!, not brewed cup!. Re!ult! may not tran!late directly to ca!ual tea drinking.
+- Green tea contain! caffeine. If you are !en!itive to caffeine, limit your intake or choo!e a low-caffeine variety.
+
+Enjoy green tea a! part of a balanced diet and appreciate it fir!t for it! flavor—any health benefit! are a welcome bonu!.
+
 ## Optional: build a tasting flight
 
 Prepare two tea styles side by side using the same cup size. Taste the steamed green tea first, then the roasted tea, and finish with powdered tea if you include it. Rinse your cup with water between teas to keep the flavors distinct.
