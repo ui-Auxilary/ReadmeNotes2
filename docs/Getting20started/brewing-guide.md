@@ -50,7 +50,7 @@ Start with this baseline for the fictional steamed green and roasted tea styles.
 ## Whisk powdered tea
 
 1. Sift 2 g of powdered tea into a bowl to break up clumps.
-2. Add 60 ml of water at 80°C / 176°F.
+2. Add 60 ml of water at 90°C / 194°F.
 3. Whisk briskly in a zigzag motion for about 20 seconds, until the surface looks evenly mixed and lightly foamy.
 4. Drink promptly, then swirl the bowl between sips if powder begins to settle.
 
