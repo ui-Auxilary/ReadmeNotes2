@@ -36,10 +36,10 @@ Start with this baseline for the fictional steamed green and roasted tea styles.
 
 | Parameter | Steamed green tea | Roasted tea |
 | --- | --- | --- |
-| Tea | 5 g | 5 g |
+| Tea | 4 g | 5 g |
 | Water | 200 ml | 200 ml |
-| Water temperature | 70°C / 158°F | 90°C / 194°F |
-| First steep | 60 seconds | 60 seconds |
+| Water temperature | 75°C / 167°F | 95°C / 203°F |
+| First steep | 45 seconds | 30 seconds |
 
 1. Measure the tea into your infuser or teapot.
 2. Measure and heat the water to the listed temperature.
