@@ -9,7 +9,7 @@ export interface BrewingPreset {
 }
 
 export const BREWING_PRESETS: Record<TeaStyle, BrewingPreset> = {
-  'steamed-green': { grams: 5, waterMl: 200, waterTempC: 70, firstSteepSeconds: 60 },
-  roasted: { grams: 5, waterMl: 200, waterTempC: 90, firstSteepSeconds: 60 },
+  'steamed-green': { grams: 4, waterMl: 200, waterTempC: 75, firstSteepSeconds: 45 },
+  roasted: { grams: 5, waterMl: 200, waterTempC: 95, firstSteepSeconds: 30 },
   powdered: { grams: 2, waterMl: 60, waterTempC: 80, whiskSeconds: 20 },
 };
