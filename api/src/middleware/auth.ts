@@ -2,15 +2,24 @@ import type { NextFunction, Request, Response } from 'express';
 
 import { findApiKey } from '../keys';
 
+export const API_KEY_HEADER = 'X-TeaCapital-Key';
+
 /**
- * Accepts `Authorization: Bearer <api key>` on every /v1 route.
+ * Accepts the API key in the `X-TeaCapital-Key` header on every /v1 route.
+ *
+ * Bearer tokens in `Authorization` are rejected with `401 auth_scheme_removed`.
  */
 export async function requireApiKey(req: Request, res: Response, next: NextFunction) {
-  const header = req.header('Authorization') ?? '';
-  const [scheme, token] = header.split(' ');
+  if (req.header('Authorization')?.startsWith('Bearer ')) {
+    return res.status(401).json({
+      error: 'auth_scheme_removed',
+      message: `Bearer tokens are no longer accepted. Send your API key in the ${API_KEY_HEADER} header.`,
+    });
+  }
 
-  if (scheme !== 'Bearer' || !token) {
-    return res.status(401).json({ error: 'missing_api_key', message: 'Send your API key as a Bearer token.' });
+  const token = req.header(API_KEY_HEADER);
+  if (!token) {
+    return res.status(401).json({ error: 'missing_api_key', message: `Send your API key in the ${API_KEY_HEADER} header.` });
   }
 
   const key = await findApiKey(token);
