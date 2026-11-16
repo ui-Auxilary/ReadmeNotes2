@@ -4,6 +4,9 @@ description: >-
   Use the teaCapital JavaScript SDK to whisk matcha and pour steamed milk for a
   latte.
 hidden: false
+recipe:
+  color: '#018FF4'
+  icon: 🦉
 ---
 ```javascript matcha-latte.js
 // npm install @teacapital/sdk
@@ -24,7 +27,12 @@ const latte = await tea.latte.pour({
   milkMl: 180,
 });
 
-console.log(`Your latte is ready: ${latte.id}`);
+const sweetened = await tea.latte.stir({
+  latte: latte.id,
+  honeyTsp: 1,
+});
+
+console.log(`Your latte is ready: ${sweetened.id}`);
 ```
 
 # Install the SDK
@@ -44,3 +52,9 @@ Sift 2 g of matcha into the bowl, add 60 ml of water at 80°C / 176°F, and whis
 <!-- javascript@13-17 -->
 
 Pour 180 ml of steamed milk over the whisked matcha to finish the latte.
+
+# Stir in honey
+
+<!-- javascript@19-22 -->
+
+Stir a teaspoon of honey into the latte until it dissolves.
