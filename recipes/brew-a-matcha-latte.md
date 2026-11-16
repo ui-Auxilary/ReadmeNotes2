@@ -5,6 +5,7 @@ description: >-
   latte.
 hidden: false
 recipe:
+  color: '#018FF4'
   icon: 🍵
 ---
 ```javascript matcha-latte.js
@@ -29,7 +30,13 @@ const latte = await tea.pour({
   steamed: true,
 });
 
-console.log(latte.summary);
+// Stir in the honey
+const sweetened = await tea.stir({
+  base: latte,
+  honeyTsp: 1,
+});
+
+console.log(sweetened.summary);
 ```
 
 # Install the SDK
@@ -46,6 +53,12 @@ Whisk 2 g of matcha into 60 ml of water at 80°C / 176°F until the surface look
 
 # Pour the milk
 
-<!-- javascript@14-22 -->
+<!-- javascript@14-20 -->
 
 Pour steamed milk over the whisked matcha to finish the latte. Swap the milk type or volume to suit your taste.
+
+# Stir in the honey
+
+<!-- javascript@22-28 -->
+
+Stir a teaspoon of honey into the latte until it dissolves.
