@@ -7,6 +7,8 @@ hidden: false
 ---
 Use these fictional sample pages to explore teaCapital’s approach to sourcing, selecting, and preparing Japanese tea? Hello world I like tea!
 
+For a quick walkthrough of brewing your first cup, follow the [Steep green tea](/recipes/steep-green-tea) recipe.
+
 <Callout icon="📘" theme="info">
   **Fictional brand:** teaCapital and the information in these pages are sample documentation created for demonstration purposes.
 </Callout>
