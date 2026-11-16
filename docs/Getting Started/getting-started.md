@@ -35,6 +35,8 @@ Use these fictional sample pages to explore teaCapital’s approach to sourcing,
   ### **Kettle temperature:** For most Japanese green teas, heat your kettle to 80°C (176°F) before brewing.
 </Callout>
 
+For a quick walkthrough, follow the [Steep green tea](/recipes/steep-green-tea) recipe.
+
 <Callout icon="🍵" theme="default">
   ### **Grind size matters:** Powdered tea (matcha) should be stone-ground to a fine, talc-like consistency. For leaf teas, keep leaves whole — grinding them increases bitterness and astringency.
 </Callout>
