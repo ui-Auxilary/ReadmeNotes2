@@ -2,10 +2,13 @@
 title: Look up a tea with your API key
 description: Authenticate with your API key, list the teas and look one up.
 hidden: false
+recipe:
+  color: '#018FF4'
+  icon: 🦉
 ---
 ```javascript Node.js
 const API = 'https://api.teacapital.com/v1';
-const headers = { Authorization: `Bearer ${process.env.TEACAPITAL_API_KEY}` };
+const headers = { 'X-TeaCapital-Key': process.env.TEACAPITAL_API_KEY };
 
 // List every tea
 const teas = await fetch(`${API}/teas`, { headers }).then(res => res.json());
@@ -19,7 +22,7 @@ console.log(tea.name);
 
 <!-- javascript@1-2 -->
 
-Every `/v1` request needs your API key in the `Authorization` header as a Bearer token. A missing or wrong key returns `401 missing_api_key`.
+Every `/v1` request needs your API key in the `X-TeaCapital-Key` header. A missing or wrong key returns `401 missing_api_key`.
 
 # List the teas
 
